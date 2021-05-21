@@ -1,0 +1,16 @@
+MAXREFDES220#: Finger Heart Rate and Pulse Oximeter Smart Sensor with Digital Signal Processing
+https://www.maximintegrated.com/en/design/reference-design-center/system-board/6657.html
+https://ar.mouser.com/ProductDetail/Maxim-Integrated/MAXREFDES220?qs=%2Fha2pyFaduhmckDe%252B%2FC72%2Ft8qJipi1mOOL5scnGYoZGm5CuWtsNtiw%3D%3D
+
+MAX32630FTHR
+https://www.maximintegrated.com/en/products/microcontrollers/MAX32630FTHR.html
+
+https://ar.mouser.com/ProductDetail/Maxim-Integrated/MAX32630FTHR?qs=sGAEpiMZZMu3sxpa5v1qrrEHqhoLvHE64m7%252BJe%252BkiF8%3D
+
+MAX30205EVSYS
+https://www.maximintegrated.com/en/products/sensors/MAX30205EVSYS.html#product-details
+
+https://ar.mouser.com/ProductDetail/Maxim-Integrated/MAX30205EVSYS?qs=V%252BBODeGd91I6QDTK6VQbqg%3D%3D&utm_source=maxim-integrated&utm_medium=supplier&utm_campaign=MAX30205EVSYS#&utm_term=MAX30205EVSYS#&utm_content=Maxim%20Integrated
+
+
+https://maximsupport.microsoftcrmportals.com/en-US/support/create-case/
