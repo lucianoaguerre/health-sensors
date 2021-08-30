@@ -1,0 +1,8762 @@
+(Cell	generic_packages
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.263)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/21/11,11:28:08)
+
+			(User	Moises.Condicion)
+
+			(Path	eee_lib.generic_packages)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/31/16,13:56:13)
+
+			(User	Joseph.Duran)
+
+			(Path	jos_mml_project_lib.generic_packages)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.40)
+
+				(ModificationStatus	NULL)
+
+				(Status	Modified)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	75
+
+				(Symbol	sym_9
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001a7e3e2a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/08/12,09:45:32)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000016553e46)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/21/11,11:28:08)
+
+							(User	Moises.Condicion)
+
+							(Path	eee_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_11
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000eaf58ad2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/30/12,17:44:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_12
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c17c7c07)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/30/12,18:02:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_13
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000619bae35)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/21/12,13:51:31)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_14
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b1f07d4e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_16
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000cf66cf46)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_17
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000053166e1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_18
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004442509f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/22/12,17:01:02)
+
+							(User	Moises.Condicion)
+
+							(Path	maxlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_19
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008be0be93)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/26/12,10:02:57)
+
+							(User	Moises.Condicion)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003c74ec3a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/11,17:26:39)
+
+							(User	Moises.Condicion)
+
+							(Path	eee_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_20
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000574fd539)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/26/12,10:21:25)
+
+							(User	Moises.Condicion)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_21
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a02b86de)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_22
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ed3e26cc)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/03/12,06:39:38)
+
+							(User	tois)
+
+							(Path	ddd_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_23
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000016586080)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/05/12,20:12:12)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_26
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d1996ae3)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_15
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ffb865c2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_24
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c42f671a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_25
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006a776b0f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_27
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000dc5147a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/21/12,10:45:30)
+
+							(User	tois)
+
+							(Path	ddd_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_28
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000083a4219d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/02/13,16:34:43)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_29
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001a130855)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.8)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/06/13,18:34:24)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d44be6d6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/12/12,09:43:07)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_30
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b1f5ab33)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/07/13,16:23:06)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_31
+
+					(Symbol_Type	Sizable)
+
+					(Max_Size	0)
+
+					(Checksum	00000000dd064d10)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/07/13,16:51:53)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_32
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005755d539)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/08/13,08:39:45)
+
+							(User	tois)
+
+							(Path	ddd_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_33
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006b4c9cda)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/19/13,12:44:24)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_34
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005d0e8152)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/22/13,05:08:59)
+
+							(User	tois)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_35
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c83d1a66)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_36
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001791a0d5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/10/13,05:02:55)
+
+							(User	tois)
+
+							(Path	ddd_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_37
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000074678c17)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_39
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004809da93)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:46)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_4
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004d02b271)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/17/12,11:48:33)
+
+							(User	Moises.Condicion)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_40
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000eabedc8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:46)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_41
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002ae8edd9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:46)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_42
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000462cede9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_43
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006170edf9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_44
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007cb4ee09)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_45
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000097f8ee19)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_46
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d1adee30)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_47
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e9c4ee49)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_48
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000517ee59)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_49
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000205bee69)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_5
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000ebed9fc)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/10/12,10:29:34)
+
+							(User	Moises.Condicion)
+
+							(Path	eee_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_50
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003b9fee79)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_51
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000056e3ee89)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_52
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008d6beea9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_53
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c3f3eec9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_54
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fa7beee9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:49:47)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_55
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000027428da0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/28/14,17:00:21)
+
+							(User	moises.condicion)
+
+							(Path	ddd_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_56
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c6ac79fb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/28/14,17:01:17)
+
+							(User	moises.condicion)
+
+							(Path	ddd_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_57
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007bd820df)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/18/14,16:55:00)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_10
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006c8a1b33)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/17/12,14:32:33)
+
+							(User	Moises.Condicion)
+
+							(Path	maxlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_58
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ac09f85b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/07/14,07:03:28)
+
+							(User	tois)
+
+							(Path	evkit_noncompliant.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_59
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000aaf33990)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:36:49)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_6
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b61f2cff)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/11/12,13:15:18)
+
+							(User	Moises.Condicion)
+
+							(Path	eee_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_60
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001910df2d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:48:33)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_61
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000019e2081a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:52:23)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_62
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b139cc34)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:57:04)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_63
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000000a31c6f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,18:00:50)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_64
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000094fb6cbb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/14,17:42:10)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_65
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008a510e54)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/14,17:45:28)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_66
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003a2eb46c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/14,17:48:46)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_67
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000452b8a73)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/19/14,02:48:59)
+
+							(User	tois)
+
+							(Path	evkit_noncompliant.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_38
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004fec6230)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_68
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000086418b9e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/14/15,17:56:55)
+
+							(User	jayson.navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_69
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000083f5a0fb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/23/15,19:50:53)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_7
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000047ae642b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/12,11:07:31)
+
+							(User	Moises.Condicion)
+
+							(Path	eee_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_70
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000015760fd4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/23/15,19:57:21)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_71
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000681827f1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/23/15,20:01:19)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_72
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009dfedd6a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/18/15,08:43:18)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_73
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000807ce064)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/29/15,13:14:29)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_74
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000068143e01)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/15/16,16:26:12)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_75
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a5b888cb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/31/16,13:51:29)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_8
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d058ad53)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/07/12,10:58:00)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d6c03e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000eb6a67f1)
+
+			(Primitives	83
+
+				(Primitive	GENERIC_PACKAGES_TQFN24
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/21/11,11:28:08)
+
+							(User	Moises.Condicion)
+
+							(Path	eee_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TQFN24)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFN50P400X500X80-25M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TQFN20-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/11,17:25:58)
+
+							(User	Moises.Condicion)
+
+							(Path	eee_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TQFN20-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFN50P400X400X80-21M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_SOT23-8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/12/12,09:40:29)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_SOT23-8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOT65P280X145-8M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP18
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/17/12,11:47:36)
+
+							(User	Moises.Condicion)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP18)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	DIP18)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TQFN32-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/10/12,09:17:16)
+
+							(User	Moises.Condicion)
+
+							(Path	eee_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TQFN32-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_5)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFN50P500X600X80-33M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TSSOP24
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/11/12,13:12:32)
+
+							(User	Moises.Condicion)
+
+							(Path	eee_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TSSOP24)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_6)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOP65P640X110-24M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TSSOP14
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/12,11:06:27)
+
+							(User	Moises.Condicion)
+
+							(Path	eee_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TSSOP14)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_7)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOP65P640X120-14M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TQFN68-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/07/12,10:55:40)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TQFN68-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_8)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFN50P1000X1000X80-69M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TSSOP38
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/08/12,09:40:17)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TSSOP38)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_9)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOP50P640X120-38M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_WSOIC18
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/08/12,10:15:03)
+
+							(User	Moises.Condicion)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_WSOIC18)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOIC127P1032X265-18M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_208SOIC8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/08/12,10:31:27)
+
+							(User	Moises.Condicion)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_208SOIC8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOIC127P780X205-8M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP24-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/18/12,10:12:44)
+
+							(User	Moises.Condicion)
+
+							(Path	maxlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP24-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_6)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	DIP24-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TQFN48-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/17/12,14:31:03)
+
+							(User	Moises.Condicion)
+
+							(Path	maxlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TQFN48-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_57)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_10)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFN40P600X600X80-49AM)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP16-300
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/30/12,17:43:24)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP16-300)
+
+							(PackType	GENERIC_PACKAGES_WSOIC16)
+
+							(PackType	GENERIC_PACKAGES_NSOIC16)
+
+						)
+
+					)
+
+					(Packages	3
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_11)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	DIP16)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_WSOIC28
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/30/12,18:01:31)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_WSOIC28)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_12)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOIC127P1030X265-28M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_SOT23-5
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/21/12,13:50:46)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_SOT23-5)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_13)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOT95P280X145-5M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_0603RES
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.8)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/05/12,13:37:22)
+
+							(User	Moises.Condicion)
+
+							(Path	maxlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_0603RES)
+
+							(PackType	GENERIC_PACKAGES_0805RES)
+
+							(PackType	GENERIC_PACKAGES_0201RES)
+
+							(PackType	GENERIC_PACKAGES_0402RES)
+
+							(PackType	GENERIC_PACKAGES_1206RES)
+
+							(PackType	GENERIC_PACKAGES_1210RES)
+
+							(PackType	GENERIC_PACKAGES_1812RES)
+
+							(PackType	GENERIC_PACKAGES_1825RES)
+
+							(PackType	GENERIC_PACKAGES_2010RES)
+
+							(PackType	GENERIC_PACKAGES_2512RES)
+
+							(PackType	GENERIC_PACKAGES_0612RES)
+
+							(PackType	GENERIC_PACKAGES_0201RES_FF)
+
+						)
+
+					)
+
+					(Packages	12
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_14)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	0603)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_0603CAP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.10)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/05/12,13:40:33)
+
+							(User	Moises.Condicion)
+
+							(Path	maxlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_0603CAP)
+
+							(PackType	GENERIC_PACKAGES_0805CAP)
+
+							(PackType	GENERIC_PACKAGES_0201CAP)
+
+							(PackType	GENERIC_PACKAGES_0402CAP)
+
+							(PackType	GENERIC_PACKAGES_1206CAP)
+
+							(PackType	GENERIC_PACKAGES_1210CAP)
+
+							(PackType	GENERIC_PACKAGES_1812CAP)
+
+							(PackType	GENERIC_PACKAGES_2220CAP)
+
+							(PackType	GENERIC_PACKAGES_1825CAP)
+
+						)
+
+					)
+
+					(Packages	9
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_26)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_15)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_24)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_25)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	0603)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_LFPAK
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/05/12,13:51:48)
+
+							(User	Moises.Condicion)
+
+							(Path	maxlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_LFPAK)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_16)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	TO127P600X110-5M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_CASEE
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/05/12,14:47:02)
+
+							(User	Moises.Condicion)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_CASEE)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_17)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CAPAE830X690M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_7343CAP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/12/12,11:47:05)
+
+							(User	Moises.Condicion)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_7343CAP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_17)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CAPMP7343X430M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TDFN12-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/22/12,16:59:57)
+
+							(User	Moises.Condicion)
+
+							(Path	maxlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TDFN12-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_18)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SON50P300X300X55-13M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_SOT23-6
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/26/12,09:59:09)
+
+							(User	Moises.Condicion)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_SOT23-6)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_19)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOT95P280X145-6M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_WLP6
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/26/12,10:19:40)
+
+							(User	Moises.Condicion)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_WLP6)
+
+							(PackType	GENERIC_PACKAGES_UCSP6)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_20)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BGA6C40P3X2_128X96X70)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_0603IND
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/06/12,13:40:07)
+
+							(User	Moises.Condicion)
+
+							(Path	maxlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_0603IND)
+
+							(PackType	GENERIC_PACKAGES_0805IND)
+
+							(PackType	GENERIC_PACKAGES_1806IND)
+
+						)
+
+					)
+
+					(Packages	3
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_21)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	0805)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TDFN10-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/03/12,06:45:48)
+
+							(User	tois)
+
+							(Path	ddd_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TDFN10-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_22)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SON50P300X300X80-11WEED3M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIO_SOT323_OPEN
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/05/12,20:04:30)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIO_SOT323_OPEN)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_23)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOT65P210X110-3M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_UMAX10
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/21/12,10:43:35)
+
+							(User	tois)
+
+							(Path	ddd_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_UMAX10)
+
+							(PackType	GENERIC_PACKAGES_SKT_DIP10)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_27)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOP50P490X110-10M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_WLP36
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/02/13,16:31:33)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_WLP36)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_28)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BGA36C40P6X6_284X284X69)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_WLP8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/06/13,18:13:14)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_WLP8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_29)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BGA8C50P4X2_210X108X69)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_UMAX8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/06/13,18:40:13)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_UMAX8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOP65P490X110-8M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_WLP4
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/07/13,16:20:52)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_WLP4)
+
+							(PackType	GENERIC_PACKAGES_UCSP4)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_30)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BGA4C40P2X2_86X86X69)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_WLP9
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/07/13,16:24:37)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_WLP9)
+
+							(PackType	GENERIC_PACKAGES_UCSP9)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[9]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_31)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BGAS9C33P3X3_95X95X57)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_WLP61
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/08/13,08:38:52)
+
+							(User	tois)
+
+							(Path	ddd_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_WLP61)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_32)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BGA6C40P3X2_128X96X70)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TSSOP16-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/19/13,12:41:36)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TSSOP16-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_33)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOP65P638X110-17M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TQFP48-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/22/13,03:55:19)
+
+							(User	tois)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TQFP48-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_57)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_10)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	qfp50p900x900x120-49m)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TQFN40-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/22/13,05:01:48)
+
+							(User	tois)
+
+							(Path	mml.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TQFN40-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_34)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFN50P600X600X80-41AM)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_LQFP208-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/04/13,09:55:18)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_LQFP208-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_35)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFN50P3000X3000X160-209M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_SC70-5
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/29/13,09:42:45)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_SC70-5)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_13)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOT65P210X110-5M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_SC70-6
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/29/13,09:54:33)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_SC70-6)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_19)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOT65P210X110-6M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TQFN16-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/10/13,04:58:05)
+
+							(User	tois)
+
+							(Path	ddd_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TQFN16-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_36)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFN50P300X300X80-17M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_SOD-523
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/17/13,05:31:53)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_SOD-523)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_37)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOD1609X65M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_SMA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/17/13,09:42:22)
+
+							(User	jayson.navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_SMA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_37)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	DIO_SMA)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_CASEG
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/10/13,11:42:04)
+
+							(User	jayson.navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_CASEG)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_17)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CAPAE1030X1050M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_0402FB
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/31/13,12:20:33)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_0402FB)
+
+							(PackType	GENERIC_PACKAGES_0603FB)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_67)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_38)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	0402)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_FCBGA127
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/13,18:38:24)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_FCBGA127)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	16
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_39)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_40)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_41)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	4[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_42)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	5[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_43)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	6[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_44)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	7[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_45)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	8[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_46)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	9[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_47)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	10[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_48)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	11[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_49)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	12[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_50)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	13[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_51)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	14[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_52)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	15[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_53)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	16[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_54)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BGA128C80P16X8_1400X700X190)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_CAP_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/28/14,14:47:44)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_CAP_TH)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_56)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_CAPADH1524W75L900D350)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_RES_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/28/14,14:53:54)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_RES_TH)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_55)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_RESAD1524W75L900D350)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_CASEF
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/06/14,11:37:35)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_CASEF)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_17)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CAPAE830X1020M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_UMAX8-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/07/14,07:02:23)
+
+							(User	tois)
+
+							(Path	evkit_noncompliant.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_UMAX8-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_58)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOP65P490X110-8M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP6-300
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,16:56:52)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP6-300)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_19)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP6-300)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP8-300
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,16:58:44)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP8-300)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP8-300)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP10-300
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:01:55)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP10-300)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_27)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP10-300)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP6-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:27:16)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP6-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_19)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP6-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP8-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:28:01)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP8-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP8-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP10-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:29:39)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP10-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_27)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP10-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP24-300
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:32:56)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP24-300)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_6)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP24-300)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP12-300
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:34:06)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP12-300)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_59)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP12-300)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP12-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:35:24)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP12-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_59)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP12-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP14-300
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:41:46)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP14-300)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_7)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP14-300)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP14-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:42:18)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP14-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_7)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP14-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP16-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:44:56)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP16-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_11)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP16-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP18-300
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:45:55)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP18-300)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP18-300)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP18-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:46:30)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP18-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP18-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP20-300
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:47:32)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP20-300)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_60)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP20-300)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP20-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:49:56)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP20-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_60)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP20-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP22-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:50:23)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP22-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_61)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP22-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP28-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:55:00)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP28-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_12)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP28-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP32-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:55:59)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP32-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_62)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP32-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP38-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/14,17:59:13)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP38-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_63)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP38-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP40-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/10/14,17:59:26)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP40-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_64)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP40-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP48-600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/14,17:38:05)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP48-600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_65)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP48-600)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP48-900
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/14,17:40:26)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP48-900)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_65)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP48-900)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_DIP56-900
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/14,17:51:55)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_DIP56-900)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_66)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_DIP56-900)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_NSOIC8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/06/15,12:03:32)
+
+							(User	tois)
+
+							(Path	evkit_noncompliant.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_NSOIC8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOIC127P600X175-8M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_WLP16
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/14/15,17:55:09)
+
+							(User	jayson.navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_WLP16)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_68)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BGA16C50P4X4_240X240X64M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_SIP12
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/23/15,19:48:59)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_SIP12)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_69)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_SIP12_1-27P)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_SIP16
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/23/15,20:00:36)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_SIP16)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_70)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_SIP16_1-27P)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_SIP17
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/23/15,20:04:33)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_SIP17)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_71)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EK_SIP17_1-27P)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_QFN32-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/18/15,08:42:00)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_QFN32-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_72)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFN65P700X700X80-33M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TQFN32-EP_A
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/29/15,13:09:20)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TQFN32-EP_A)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_73)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFN50P500X500X80-33M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_WLP12
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/15/16,16:24:22)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_WLP12)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_74)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BGA12C40P4X3_166X126X50M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	GENERIC_PACKAGES_TQFN28-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/31/16,13:49:20)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.generic_packages)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GENERIC_PACKAGES
+
+							(PackType	GENERIC_PACKAGES_TQFN28-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_75)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFN50P500X500X80-29M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c4103b4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b8b0373)
+
+)
+

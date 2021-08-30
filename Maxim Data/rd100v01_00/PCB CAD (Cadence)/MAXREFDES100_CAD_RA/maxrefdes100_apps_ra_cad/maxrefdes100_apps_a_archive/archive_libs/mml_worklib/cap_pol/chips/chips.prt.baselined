@@ -1,0 +1,102 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'CAP_POL','CAP_POL_2012CAP';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'B':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='CAP_POL';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='CAP_POL';
+    JEDEC_TYPE='0603';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'CAP_NP_0402CAP';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'B':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='CAP_POL';
+    JEDEC_TYPE='0603';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'CAP_NP_0603CAP';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'B':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='CAP_POL';
+    JEDEC_TYPE='0603';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'CAP_NP_1206CAP';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'B':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='CAP_POL';
+    JEDEC_TYPE='SOIC127P1210X305-28N';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

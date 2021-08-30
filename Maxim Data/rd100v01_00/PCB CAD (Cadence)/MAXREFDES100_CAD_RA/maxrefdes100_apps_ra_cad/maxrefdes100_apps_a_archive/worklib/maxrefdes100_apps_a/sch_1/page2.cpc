@@ -1,0 +1,147 @@
+#ISCELL
+  mml maxim#20b#20size#20page#202 *
+  *
+#ISCELL
+  standard supply_1 *
+  *
+#CELL
+  mml cap_np *
+  page8_i12
+#ISCELL
+  standard pground *
+  page8_i13
+#ISCELL
+  standard pground *
+  page8_i17
+#CELL
+  mml max30101 *
+  page8_i2
+#ISCELL
+  standard pground *
+  page8_i20
+#ISCELL
+  standard pground *
+  page8_i21
+#CELL
+  mml res_smd *
+  page8_i22
+#CELL
+  mml res_smd *
+  page8_i23
+#CELL
+  mml res_smd *
+  page8_i24
+#CELL
+  mml cap_np *
+  page8_i28
+#ISCELL
+  standard pground *
+  page8_i29
+#CELL
+  mml lis2dh *
+  page8_i3
+#CELL
+  mml cap_np *
+  page8_i30
+#ISCELL
+  standard pground *
+  page8_i31
+#CELL
+  mml res_smd *
+  page8_i32
+#CELL
+  mml res_smd *
+  page8_i33
+#CELL
+  mml cap_np *
+  page8_i4
+#CELL
+  mml cap_np *
+  page8_i43
+#ISCELL
+  standard pground *
+  page8_i45
+#CELL
+  mml cap_np *
+  page8_i46
+#CELL
+  mml cap_np *
+  page8_i5
+#CELL
+  mml bmp280 *
+  page8_i55
+#ISCELL
+  standard pground *
+  page8_i56
+#CELL
+  mml cap_np *
+  page8_i57
+#ISCELL
+  standard pground *
+  page8_i58
+#CELL
+  mml cap_np *
+  page8_i59
+#ISCELL
+  standard pground *
+  page8_i60
+#CELL
+  mml cap_np *
+  page8_i64
+#ISCELL
+  standard pground *
+  page8_i65
+#ISCELL
+  standard pground *
+  page8_i66
+#CELL
+  mml cap_np *
+  page8_i68
+#ISCELL
+  standard pground *
+  page8_i69
+#ISCELL
+  standard pground *
+  page8_i7
+#ISCELL
+  standard pground *
+  page8_i74
+#ISCELL
+  standard pground *
+  page8_i75
+#CELL
+  mml res_smd *
+  page8_i77
+#CELL
+  mml res_smd *
+  page8_i78
+#CELL
+  mml lsm6ds3 *
+  page8_i79
+#ISCELL
+  standard pground *
+  page8_i8
+#CELL
+  mml tran_nch_3p *
+  page8_i81
+#CELL
+  mml tran_nch_3p *
+  page8_i82
+#CELL
+  mml max30205 *
+  page8_i83
+#CELL
+  mml max30205 *
+  page8_i84
+#CELL
+  mml max8880 *
+  page8_i85
+#ISCELL
+  standard pground *
+  page8_i88
+#CELL
+  mml res_smd *
+  page8_i89
+#CELL
+  mml res_smd *
+  page8_i90

@@ -1,0 +1,194 @@
+(Cell	LIS2DH
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/12/15,15:40:57)
+
+			(User	Jayson.Navarro)
+
+			(Path	jaysonlib_lib.LIS2DH)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.2)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	02/12/15,15:40:57)
+
+					(User	Jayson.Navarro)
+
+					(Path	jaysonlib_lib.LIS2DH)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000268c7947)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/12/15,15:40:57)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.LIS2DH)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b3f035f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000089dc1a08)
+
+			(Primitives	1
+
+				(Primitive	LIS2DH_LGA14
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/12/15,15:40:57)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.LIS2DH)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LIS2DH
+
+							(PackType	LIS2DH_LGA14)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	PQFN35P200X200X100-14M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cee03ac)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001de20406)
+
+)
+

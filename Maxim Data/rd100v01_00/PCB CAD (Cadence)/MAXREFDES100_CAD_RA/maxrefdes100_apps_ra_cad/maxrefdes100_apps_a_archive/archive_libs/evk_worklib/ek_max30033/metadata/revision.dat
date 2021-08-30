@@ -1,0 +1,308 @@
+(Cell	ek_max30033
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/18/15,11:57:15)
+
+			(User	Ryan.Cabreza)
+
+			(Path	default_lib.ek_max30033)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/06/16,09:40:26)
+
+			(User	Jayson.Navarro)
+
+			(Path	jaysonlib_lib.ek_max30033)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.4)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	03/18/15,11:57:15)
+
+					(User	Ryan.Cabreza)
+
+					(Path	default_lib.ek_max30033)
+
+				)
+
+			)
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006218d80f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/18/15,11:57:15)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.ek_max30033)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f407c946)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/06/16,09:36:11)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.ek_max30033)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001acd034b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000010bbcb01)
+
+			(Primitives	2
+
+				(Primitive	EK_MAX30033_TDFN8-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/18/15,11:57:15)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.ek_max30033)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	EK_MAX30033
+
+							(PackType	EK_MAX30033_TDFN8-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SON50P200X200X80-9M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	EK_MAX30033_UMAX8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/06/16,09:34:10)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.ek_max30033)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	EK_MAX30033
+
+							(PackType	EK_MAX30033_UMAX8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOP65P490X110-8M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cfc03e4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001db703da)
+
+)
+

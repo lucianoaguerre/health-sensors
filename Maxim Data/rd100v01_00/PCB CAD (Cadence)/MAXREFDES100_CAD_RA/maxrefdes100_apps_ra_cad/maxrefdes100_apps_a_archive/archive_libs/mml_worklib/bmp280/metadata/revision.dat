@@ -1,0 +1,194 @@
+(Cell	bmp280
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/14/15,14:46:03)
+
+			(User	Ryan.Cabreza)
+
+			(Path	default_lib.bmp280)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.3)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	05/14/15,14:46:03)
+
+					(User	Ryan.Cabreza)
+
+					(Path	default_lib.bmp280)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000185ff372)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/15,14:46:03)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.bmp280)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bed0387)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000074392cec)
+
+			(Primitives	1
+
+				(Primitive	BMP280_LGA8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/15,14:46:03)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.bmp280)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BMP280
+
+							(PackType	BMP280_LGA8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BOSCH_BMP280)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a1f031f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S047 (v16-6-112DV))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c4403a4)
+
+)
+

@@ -1,0 +1,27 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CAP_4P'
+
+{========================================================================================}
+:PACK_TYPE | JEDEC_TYPE    | VALUE            | MAXINV         = MFG_PART_NUMBER  | MANUFACTURER               | TOLERANCE | DESCRIPTION                                                                                                    | VOLTAGE_RATING | TEMP_RANGE              | BOM | LEAD_LENGTH | STATUS   | DATASHEET_URL                                                                                 | EST_STOCK_STATUS                 | CAP        | VLOG_PARAM01 | REFLOW | BEHAVIORAL_MODEL | EST_PRICE ;
+{========================================================================================}
+'SMD'     | 'CAP_4PADS'   | 'CAP_4P'         | 'N/A'(!)       = 'N/A'            | 'N/A'                      | 'N/A'     | 'CAPACITOR PADS ONLY, MISCELLANEOUS PART'                                                                      | 'N/A'          | 'N/A'                   | 'N' | 'N/A'       | 'ACTIVE' | 'N/A'                                                                                         | 'HQ(00):HBO(00):MPOC(00):DL(00)' | 'N/A'      | 'CAP:INTEGER' | '-' | 'FALSE' | '($0)'
+'1206'    | 'CAP_1206X18' | '101X18W103MV4E' | '20-00U01-S1'(!) = '101X18W103MV4E' | 'JOHANSON DIELECTRICS INC' | 'N/A'     | 'CAPACITOR; SMT (1206); CERAMIC CHIP; 0.01UF; 100V; TOL=20%; MODEL=X2Y SERIES'                                 | 'N/A'          | '-55 DEGC TO +125 DEGC' | 'Y' | 'N/A'       | 'ACTIVE' | 'http://cavwapp018.maxim-ic.com/inv/attachfile/downloadfile.php?mode=open&id=1101-000109&fsize=1243563' | 'HQ(0):HBO(0):MPOC(0):DL(0)'     | '1.00E-04' | 'CAP:INTEGER' | '-' | 'FALSE' | '($4.4)'
+'0603'    | 'CAP_0603X14' | '0.1UF' | '20-000U1-R1B'(!) = '100X14W104MV4T' | 'JOHANSON DIELECTRICS INC' | '20%'     | 'CAPACITOR; SMT (0603); CERAMIC CHIP; 0.1UF; 10V; TOL=20%; MODEL=X2Y SERIES; TG=-55 DEGC TO +125 DEGC; TC=X7R' | '10V'          | '-55 DEGC TO +125 DEGC' | 'Y' | 'N/A'       | 'ACTIVE' | 'http://cavwapp018.maxim-ic.com/inv/attachfile/downloadfile.php?mode=open&id=1305-000109&fsize=1243563' | 'HQ(41):HBO(0):MPOC(0):DL(0)' | '1.00E-07' | 'CAP:INTEGER' | '-' | 'FALSE' | '($0.0891)'    : ALT_SYMBOLS = 'CAP_0603X14L'
+
+END_PART
+
+END.
+
+
+
+
+
+
+
+
+
+
+
+
+

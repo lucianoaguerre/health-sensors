@@ -1,0 +1,34 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74C2T45'
+
+{========================================================================================}
+:PACK_TYPE | JEDEC_TYPE            | VALUE             | MAXINV                 = MFG_PART_NUMBER   | MANUFACTURER                 | TOLERANCE | DESCRIPTION                                                                                                            | VOLTAGE_RATING | TEMP_RANGE              | BOM | LEAD_LENGTH | STATUS   | DATASHEET_URL | EST_STOCK_STATUS | REFLOW | BEHAVIORAL_MODEL | EST_PRICE ;
+{========================================================================================}
+'SSOP'    | 'SOP65P400X135-8M'    | 'SN74LVC2T45DCT'  | '10-SN74LVC2T45DCT-A'(!) = 'SN74LVC2T45DCT'  | 'TEXAS INSTRUMENTS'          | 'N/A'     | 'IC, DUAL-BIT DUAL-SUPPLY BUS TRANSCEIVER W/ CONFIGURABLE VOLTAGE TRANSLATION AND 3-STATE OUTPUTS'                     | 'N/A'          | '-40 degC TO +85 degC'  | 'Y' | 'N/A'       | 'ACTIVE' | 'http://cavwapp018.maxim-ic.com/inv/attachfile/downloadfile.php?mode=open&id=1001-000074&fsize=632012' | 'HQ(5):HBO(99):MPOC(10):DL(265)' | '-' | 'TRUE' | '($0.61)'
+'VSSOP'   | 'SOP50P310X90-8M'     | 'SN74LVC2T45DCUR' | '10-SN74LVC2T45DCUR-U'(!) = 'SN74LVC2T45DCUR' | 'TEXAS INSTRUMENTS'          | 'N/A'     | 'IC; TXRX; DUAL-BIT DUAL-SUPPLY BUS TRANSCEIVER WITH CONFIGURABLE VOLTAGE TRANSLATION AND 3-STATE OUTPUT; VSSOP8'      | 'N/A'          | '-40 degC TO +85 degC'  | 'Y' | 'N/A'       | 'ACTIVE' | 'http://cavwapp018.maxim-ic.com/inv/attachfile/downloadfile.php?mode=open&id=1101-000107&fsize=632012' | 'HQ(100):HBO(0):MPOC(0):DL(0)' | '-' | 'TRUE' | '($0.79)'
+'SOT1089' | 'SON35P135X100X50-8M' | '74AVCH2T45GF'    | '10-74AVCH2T45GF-U'(!) = '74AVCH2T45GF'    | 'PHILIPS SEMICONDUCTORS/NXP' | 'N/A'     | 'IC; TXRX; DUAL-BIT, DUAL-SUPPLY VOLTAGE LEVEL TRANSLATOR/TRANSCEIVER; 3-STATE; SOT1089 1.35X1; -40 DEGC TO +125 DEGC' | 'N/A'          | '-40 degC TO +125 degC' | 'Y' | 'N/A'       | 'ACTIVE' | 'http://cavwapp018.maxim-ic.com/inv/attachfile/downloadfile.php?mode=open&id=1108-000199&fsize=833190' | 'HQ(0):HBO(0):MPOC(0):DL(0)' | '-' | 'TRUE' | '($0)'
+'VSSOP'   | 'SOP50P310X90-8M'     | '74AVCH2T45DC' | '10-74AVCH2T45DC-U'(!) = '74AVCH2T45DC' | 'PHILIPS SEMICONDUCTORS/NXP'          | 'N/A'     | 'IC; TXRX; DUAL-BIT, DUAL-SUPPLY VOLTAGE LEVEL TRANSLATOR/TRANSCEIVER; 3-STATE; VSSOP8'      | 'N/A'          | '-40 DEGC TO +125 DEGC'  | 'Y' | 'N/A'       | 'ACTIVE' | 'http://cavwapp018.maxim-ic.com/inv/attachfile/downloadfile.php?mode=open&id=1109-000246&fsize=833190' | 'HQ(50):HBO(0):MPOC(0):DL(0)' | '-' | 'TRUE' | '($0)'
+'VSSOP'   | 'SOP50P310X90-8M'     | 'SN74AVCH2T45DCUR' | '10-SN74AVCH2T45DCU-A'(!) = 'SN74AVCH2T45DCUR' | 'TEXAS INSTRUMENTS'          | 'N/A'     | 'IC; TXRX; DUAL-BIT DUAL-SUPPLY BUS TRANSCEIVER WITH CONFIGURABLE VOLTAGE TRANSLATION AND 3-STATE OUTPUT; VSSOP8'      | 'N/A'          | '-40 DEGC TO +85 DEGC'  | 'Y' | 'N/A'       | 'ACTIVE' | 'http://cavwapp018.maxim-ic.com/inv/attachfile/downloadfile.php?mode=open&id=1207-000017&fsize=766977' | 'HQ(0):HBO(0):MPOC(0):DL(0)' | '-' | 'TRUE' | '($0)'
+'VSSOP'   | 'SOP50P310X90-8M'     | '74AVC2T45DC' | '10-74AVC2T45DC-U'(!) = '74AVC2T45DC' | 'NXP SEMICONDUCTORS'          | 'N/A'     | 'IC; TXRX; DUAL-BIT; 3-STATE; DUAL-SUPPLY VOLTAGE LEVEL TRANSLATOR/TRANSCEIVER; VSSOP8'      | 'N/A'          | '-40 DEGC TO +125 DEGC'  | 'Y' | 'N/A'       | 'ACTIVE' | 'http://cavwapp018.maxim-ic.com/inv/attachfile/downloadfile.php?mode=open&id=1301-000002&fsize=171435' | 'HQ(22):HBO(0):MPOC(34):DL(0)' | '-' | 'TRUE' | '($0.48)'
+'SSOP'    | 'SOP65P400X135-8M'    | 'SN74LVC2T45MDCTTEP'  | '10-SN74LVC2T45MDCTTEP-A'(!) = 'SN74LVC2T45MDCTTEP'  | 'TEXAS INSTRUMENTS'          | 'N/A'     | 'IC; TXRX; DUAL-BIT DUAL-SUPPLY BUS TRANSCEIVER WITH CONFIGURABLE VOLTAGE TRANSLATION AND 3-STATE OUTPUT; SSOP8'                     | '+1.65V TO +5.5V'          | '-55 DEGC TO +125 DEGC'  | 'Y' | 'N/A'       | 'EVKIT-NOT FOR TEST' | 'http://cavwapp018.maxim-ic.com/inv/attachfile/downloadfile.php?mode=open&id=1301-000163&fsize=248176' | 'HQ(0):HBO(0):MPOC(0):DL(0)' | '-' | 'TRUE' | '($1.24)'
+'DSBGA'   | 'BGA8C50P2X4_88X188X50M'    | 'SN74LVC2T45YZPR'  | '10-SN74LVC2T45YZPR-B'(!) = 'SN74LVC2T45YZPR'  | 'TEXAS INSTRUMENTS'          | 'N/A'     | 'IC; TXRX; DUAL-BIT DUAL-SUPPLY BUS TRANSCEIVER WITH CONFIGURABLE VOLTAGE TRANSLATION; 3-STATE OUTPUTS; BGA8'                     | '+1.65V TO +5.5V'          | '-40 DEGC TO +85 DEGC'  | 'Y' | 'N/A'       | 'EVKIT-NOT FOR TEST' | 'http://cavwapp018.maxim-ic.com/inv/attachfile/attachfiledialog.php?pn=10-SN74LVC2T45YZPR-B' | 'HQ(0):HBO(0):MPOC(0):DL(0)' | '-' | 'TRUE' | '($0.72)'
+'XSON'    | 'PSON50P195X100X50-8M'      | '74AVC2T45GT'      | '10-74AVC2T45GT-B'(!) = '74AVC2T45GT'          | 'NXP'                        | 'N/A'     | 'IC; TXRX; DUAL-BIT; DUAL-SUPPLY VOLTAGE LEVEL TRANSLATOR/TRANSCEIVER; 3-STATE; XSON8'                                            | '+0.8V TO +3.6V'           | '-40 DEGC TO +125 DEGC' | 'Y' | 'N/A'       | 'EVKIT-NOT FOR TEST' | 'http://cavwapp018.maxim-ic.com/inv/attachfile/attachfiledialog.php?pn=10-74AVC2T45GT-B'     | 'HQ(20):HBO(0):MPOC(0):DL(0)' | '-' | 'TRUE' | '($0.16)'
+'TSSOP8'  | 'SOP65P400X110-8M'          | '74AVC2T45DP'      | '10-74AVC2T45DP-U'(!) = '74AVC2T45DP'          | 'NXP'                        | 'N/A'     | 'IC; TXRX; DUAL-BIT; DUAL-SUPPLY VOLTAGE LEVEL TRANSLATOR/TRANSCEIVER; 3-STATE; TSSOP8'                                           | '+0.8V TO +3.6V'           | '-40 DEGC TO +125 DEGC' | 'Y' | 'N/A'       | 'ACTIVE'             | 'http://cavwapp018.maxim-ic.com/inv/attachfile/attachfiledialog.php?pn=10-74AVC2T45DP-U'     | 'HQ(0):HBO(0):MPOC(0):DL(0)' | '-' | 'TRUE' | '($0.6)'
+
+END_PART
+
+END.
+
+
+
+
+
+
+
+
+
+
+
+
+

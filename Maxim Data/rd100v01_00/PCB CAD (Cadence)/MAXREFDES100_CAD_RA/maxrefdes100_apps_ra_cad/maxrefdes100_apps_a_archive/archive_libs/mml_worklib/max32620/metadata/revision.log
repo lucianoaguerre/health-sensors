@@ -1,0 +1,28 @@
+	(Comment
+		(Time 02/20/15,12:58:24)
+		(User Ryan.Cabreza)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 "sym_2")
+	)
+	(Comment
+		(Time 12/02/15,04:36:14)
+		(User Joseph.Duran)
+		(MsgId ECO_021)
+		(Text "Package MAX32620_WLP811 added to cell")
+		(Param1 "MAX32620_WLP811")
+	)
+	(Comment
+		(Time 12/02/15,05:15:39)
+		(User Joseph.Duran)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 "sym_3")
+	)
+	(Comment
+		(Time 12/02/15,05:24:32)
+		(User Joseph.Duran)
+		(MsgId ECO_081)
+		(Text "Symbol sym_4 added to cell")
+		(Param1 "sym_4")
+	)

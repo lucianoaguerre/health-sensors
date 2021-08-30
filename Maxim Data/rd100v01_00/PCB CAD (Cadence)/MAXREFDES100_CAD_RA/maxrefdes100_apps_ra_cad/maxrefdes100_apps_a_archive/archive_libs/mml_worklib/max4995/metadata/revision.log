@@ -1,0 +1,28 @@
+	(Comment
+		(Time 05/18/15,12:39:22)
+		(User tois)
+		(MsgId ECO_021)
+		(Text "Package MAX4995_1 added to cell")
+		(Param1 "MAX4995_1")
+	)
+	(Comment
+		(Time 05/18/15,12:40:09)
+		(User tois)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 "sym_2")
+	)
+	(Comment
+		(Time 05/02/16,16:40:24)
+		(User Mariel.Mabituin)
+		(MsgId ECO_021)
+		(Text "Package MAX4995_1 added to cell")
+		(Param1 "MAX4995_1")
+	)
+	(Comment
+		(Time 05/02/16,16:45:32)
+		(User Mariel.Mabituin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 "sym_3")
+	)

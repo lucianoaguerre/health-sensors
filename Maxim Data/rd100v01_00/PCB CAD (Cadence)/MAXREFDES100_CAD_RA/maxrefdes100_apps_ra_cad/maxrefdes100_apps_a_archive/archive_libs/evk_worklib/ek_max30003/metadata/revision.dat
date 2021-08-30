@@ -1,0 +1,244 @@
+(Cell	ek_max30003
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/14/16,01:07:59)
+
+			(User	jayson.navarro)
+
+			(Path	jaysonlib_lib.ek_max30003)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/25/15,13:40:33)
+
+			(User	Jayson.Navarro)
+
+			(Path	jaysonlib_lib.ek_max30001)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.4)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	06/14/16,01:07:59)
+
+					(User	jayson.navarro)
+
+					(Path	jaysonlib_lib.ek_max30003)
+
+				)
+
+			)
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006e78c050)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/14/16,01:07:59)
+
+							(User	jayson.navarro)
+
+							(Path	jaysonlib_lib.ek_max30003)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c47bbd81)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/14/16,01:07:59)
+
+							(User	jayson.navarro)
+
+							(Path	jaysonlib_lib.ek_max30003)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c3803b1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e9678c6c)
+
+			(Primitives	1
+
+				(Primitive	EK_MAX30003_TQFN28-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/14/16,01:07:59)
+
+							(User	jayson.navarro)
+
+							(Path	jaysonlib_lib.ek_max30003)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	EK_MAX30003
+
+							(PackType	EK_MAX30003_TQFN28-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFN50P500X500X80-29BM)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b5a0384)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c260379)
+
+)
+

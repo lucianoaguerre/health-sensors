@@ -1,0 +1,310 @@
+(Cell	max9064
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/15/15,10:24:24)
+
+			(User	ryan.cabreza)
+
+			(Path	default_lib.max9064)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/07/15,10:27:14)
+
+			(User	Ryan.Cabreza)
+
+			(Path	default_lib.max9064)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.4)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	05/15/15,10:24:24)
+
+					(User	ryan.cabreza)
+
+					(Path	default_lib.max9064)
+
+				)
+
+			)
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ee6d9716)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/07/15,10:26:53)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.max9064)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b91eb18d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/15/15,10:24:24)
+
+							(User	ryan.cabreza)
+
+							(Path	default_lib.max9064)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d0e03b5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000dbdb972d)
+
+			(Primitives	2
+
+				(Primitive	MAX9064
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/15/15,10:24:24)
+
+							(User	ryan.cabreza)
+
+							(Path	default_lib.max9064)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX9064
+
+							(PackType	MAX9064)
+
+							(PackType	MAX9064_SOT23-5)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOT95P280X145-5M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	MAX9064_UCSP4
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/07/15,10:25:37)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.max9064)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX9064
+
+							(PackType	MAX9064_UCSP4)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	UCSP4C50P2X2_100X100X67)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e0603ee)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S047 (v16-6-112DV))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bd103aa)
+
+)
+

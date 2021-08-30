@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2450AT42B100E'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'         |'VALUE'         |'MAXINV'                 = 'MFG_PART_NUMBER'    |'MANUFACTURER'         |'TOLERANCE'    |'DESCRIPTION'                                                                                           |'VOLTAGE_RATING'    |'TEMP_RANGE'               |'BOM'    |'LEAD_LENGTH'    |'STATUS'    |'DATASHEET_URL'                                                                                            |'EST_STOCK_STATUS'              |'REFLOW'    |'BEHAVIORAL_MODEL'    |'EST_PRICE'    ;
+{========================================================================================}
+ 'SMD'     |'JOHANSON_2450AT42B100E'  |'2450AT42B100E'  |'49-2450AT42B100E-00' (!)  = '2450AT42B100E'     |'JOHANSON TECHNOLOGY'  |'N/A'        |'ANTENNA; CER; 2450AT SERIES; BOARDMOUNT; 50 OHM SMALL SMD CHIP ANTENNA; 2450MHz'  |'N/A'  |'-40 DEGC TO +85 DEGC'  |'Y'    |'N/A'          |'EVKIT-NOT FOR TEST'  |'http://cavwapp018.maxim-ic.com/inv/attachfile/attachfiledialog.php?pn=49-2450AT42B100E-00'  |'HQ(18):HBO(0):MPOC(0):DL(250)'  |'-'       |'FALSE'             |'($1.01)'    : ALT_SYMBOLS = 'JOHANSON_2450AT42B100EL'
+
+END_PART
+
+END.
+
+

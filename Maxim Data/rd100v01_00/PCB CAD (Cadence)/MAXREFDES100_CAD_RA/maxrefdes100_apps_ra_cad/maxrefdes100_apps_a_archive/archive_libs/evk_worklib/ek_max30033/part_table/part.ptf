@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EK_MAX30033'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'           |'VALUE'     |'MAXINV'   = 'MFG_PART_NUMBER'    |'MANUFACTURER'    |'TOLERANCE'    |'DESCRIPTION'                                                                                    |'VOLTAGE_RATING'    |'TEMP_RANGE'    |'BOM'    |'LEAD_LENGTH'    |'STATUS'          |'DATASHEET_URL'                                   |'EST_STOCK_STATUS'                  |'REFLOW'    |'BEHAVIORAL_MODEL'    |'EST_PRICE'    ;
+{========================================================================================}
+ 'TDFN8-EP'   |'SON50P200X200X80-9M'  |'MAX30033'  |'N/A' (!)  = 'MAX30033'         |'MAXIM'         |'N/A'        |'EVKIT PART-IC; MAX30033; NO FINAL DATASHEET; PACKAGE OUTLINE: 21-0168; PACKAGE CODE: T822-2; NOTE: SET TO OBSOLET DUE TO VALUE/PART NUMBER UPDATE'  |'N/A'             |'N/A'         |'Y'    |'N/A'          |'OBSOLETE'  |'file://\\maxcavfs01\temp_datasheets\OT06.pdf'  |'HQ(00):HBO(00):MPOC(00):DL(00)'  |'-'       |'FALSE'             |'($00)'      : ALT_SYMBOLS = 'SON50P200X200X80-9L'
+ 'TDFN8-EP'   |'SON50P200X200X80-9M'  |'MAX30033CTA+'  |'N/A' (!)  = 'MAX30033CTA+'         |'MAXIM'         |'N/A'        |'EVKIT PART-IC; MAX30033; NO FINAL DATASHEET; PACKAGE OUTLINE: 21-0168; PACKAGE CODE: T822-2'  |'N/A'             |'N/A'         |'Y'    |'N/A'          |'EVKIT-CUSTOM'  |'file://\\maxcavfs01\temp_datasheets\OT06.pdf'  |'HQ(00):HBO(00):MPOC(00):DL(00)'  |'-'       |'FALSE'             |'($00)'      : ALT_SYMBOLS = 'SON50P200X200X80-9L'
+ 'UMAX8'      |'SOP65P490X110-8M'     |'MAX30033CUA+'  |'N/A' (!)  = 'MAX30033CUA+'         |'MAXIM'         |'N/A'        |'EVKIT PART-IC; MAX30033; PRELLIMINARY DATASHEET; PACKAGE OUTLINE: 21-0036; PACKAGE CODE: U8+4'  |'+/-8V'         |'0 DEGC TO +70 DEGC'         |'Y'    |'N/A'          |'EVKIT-CUSTOM'  |'file://\\maxcavfs01\temp_datasheets\EK_MAX30033'  |'HQ(00):HBO(00):MPOC(00):DL(00)'  |'-'       |'FALSE'             |'($00)'      : ALT_SYMBOLS = 'SOP65P490X110-8L'
+
+END_PART
+
+END.
+

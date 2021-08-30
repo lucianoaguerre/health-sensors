@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EK_MAX30003'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'             |'VALUE'     |'MAXINV'   = 'MFG_PART_NUMBER'    |'MANUFACTURER'    |'TOLERANCE'    |'DESCRIPTION'                                                                                                |'VOLTAGE_RATING'    |'TEMP_RANGE'    |'BOM'    |'LEAD_LENGTH'    |'STATUS'          |'DATASHEET_URL'                                      |'EST_STOCK_STATUS'                  |'REFLOW'    |'BEHAVIORAL_MODEL'    |'EST_PRICE'    ;
+{========================================================================================}
+ 'TQFN28-EP'  |'QFN50P500X500X80-29BM'  |'MAX30003CTI+'  |'N/A' (!)  = 'MAX30003CTI+'         |'MAXIM'         |'N/A'        |'EVKIT PART-IC; DET; ULTRA-LOW POWER; SINGLE CHANNEL INTEGRATED BIOPOTENTIAL (ECG; R-R DETECTION) ANALOG FRONT END SOLUTION; TQFN28-EP'  |'AVDD AND DVDD:+1.1V TO 2V; OVDD: +1.65V TO +3.6V'             |'0 DEGC TO +70 DEGC'         |'Y'    |'N/A'          |'EVKIT-CUSTOM'  |'file://\\maxcavfs01\temp_datasheets\EK_MAX30003'  |'HQ(00):HBO(00):MPOC(00):DL(00)'  |'-'       |'FALSE'             |'($00)'      : ALT_SYMBOLS = 'QFN50P500X500X80-29L'
+
+END_PART
+
+END.
+

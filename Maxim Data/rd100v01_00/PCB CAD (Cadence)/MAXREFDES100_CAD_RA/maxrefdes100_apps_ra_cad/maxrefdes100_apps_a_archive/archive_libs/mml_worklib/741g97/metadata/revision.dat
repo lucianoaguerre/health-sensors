@@ -1,0 +1,204 @@
+(Cell	741g97
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/06/15,13:59:09)
+
+			(User	Joseph.Duran)
+
+			(Path	jos_mml_project_lib.741g97)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/06/15,12:58:36)
+
+			(User	Joseph.Duran)
+
+			(Path	jos_mml_project_lib.74aup1g97)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	08/06/15,13:59:09)
+
+					(User	Joseph.Duran)
+
+					(Path	jos_mml_project_lib.741g97)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b6cbc057)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/06/15,13:59:09)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.741g97)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e5303dd)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c76ccf0f)
+
+			(Primitives	1
+
+				(Primitive	741G97_XSON6
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/06/15,13:59:09)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.741g97)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	741G97
+
+							(PackType	741G97_XSON6)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	PSON35P100X100X35-6M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f080441)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b4f0349)
+
+)
+

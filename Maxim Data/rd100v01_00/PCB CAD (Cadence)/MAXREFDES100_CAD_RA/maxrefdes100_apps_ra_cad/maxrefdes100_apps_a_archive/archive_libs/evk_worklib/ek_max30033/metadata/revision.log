@@ -1,0 +1,14 @@
+	(Comment
+		(Time 04/06/16,09:34:10)
+		(User Jayson.Navarro)
+		(MsgId ECO_021)
+		(Text "Package EK_MAX30033_TDFN8-EP1 added to cell")
+		(Param1 "EK_MAX30033_TDFN8-EP1")
+	)
+	(Comment
+		(Time 04/06/16,09:36:11)
+		(User Jayson.Navarro)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 "sym_2")
+	)

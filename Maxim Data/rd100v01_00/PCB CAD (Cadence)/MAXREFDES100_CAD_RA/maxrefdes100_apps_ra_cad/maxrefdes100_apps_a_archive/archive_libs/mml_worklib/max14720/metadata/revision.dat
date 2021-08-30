@@ -1,0 +1,206 @@
+(Cell	max14720
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/15/15,15:12:21)
+
+			(User	tois)
+
+			(Path	ddd_lib.max14720)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/04/14,05:22:43)
+
+			(User	tois)
+
+			(Path	evkit_noncompliant.ek_max14720)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.4)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	07/15/15,15:12:21)
+
+					(User	tois)
+
+					(Path	ddd_lib.max14720)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000040b8847d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/15/15,15:12:21)
+
+							(User	tois)
+
+							(Path	ddd_lib.max14720)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b720386)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f6676d1f)
+
+			(Primitives	1
+
+				(Primitive	MAX14720
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/15/15,15:12:21)
+
+							(User	tois)
+
+							(Path	ddd_lib.max14720)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX14720
+
+							(PackType	MAX14720)
+
+							(PackType	MAX14720_WLP25)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BGA25C40P5X5_222X210X69)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b90037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b78037c)
+
+)
+

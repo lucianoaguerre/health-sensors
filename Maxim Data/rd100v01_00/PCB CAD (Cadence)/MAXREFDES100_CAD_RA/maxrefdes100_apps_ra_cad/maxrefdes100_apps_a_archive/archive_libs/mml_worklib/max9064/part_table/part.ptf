@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX9064'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'        |'VALUE'       |'MAXINV'               = 'MFG_PART_NUMBER'    |'MANUFACTURER'    |'TOLERANCE'    |'DESCRIPTION'                                                                                                     |'VOLTAGE_RATING'    |'TEMP_RANGE'          |'BOM'    |'LEAD_LENGTH'    |'STATUS'    |'DATASHEET_URL'                                                                                      |'EST_STOCK_STATUS'                 |'REFLOW'    |'BEHAVIORAL_MODEL'    |'EST_PRICE'    ;
+{========================================================================================}
+ 'SOT23-5'      | 'SOT95P280X145-5M'  |'MAX9064EUK+'  |'10-MAX9064EUK-U' (!)  = 'MAX9064EUK+'       |'MAXIM'           |'N/A'        |'IC; COMP; ULTRA-SMALL; LOW-POWER SINGLE COMPARATOR; SOT23-5'  |'-0.3V TO +5.5V'             |'-40 DEGC TO +85 DEGC'  |'Y'    |'N/A'          |'EVKIT-NOT FOR TEST'  |'http://cavwapp018.maxim-ic.com/inv/attachfile/attachfiledialog.php?pn=10-MAX9064EUK-U'  |'HQ(0):HBO(0):MPOC(0):DL(200)'  |'-'       |'FALSE'             |'($0.99)'   : ALT_SYMBOLS = 'SOT95P270X145-5L50L'
+ 'UCSP4'        | 'UCSP4C50P2X2_100X100X67'  |'MAX9064EBS+G45'  |'10-MAX9064EBSG45-B' (!)  = 'MAX9064EBS+G45'       |'MAXIM'           |'N/A'        |'IC; COMP; ULTRA-SMALL; LOW-POWER SINGLE COMPARATOR; UCSP4'  |'-0.3V TO +5.5V'             |'-40 DEGC TO +85 DEGC'  |'Y'    |'N/A'          |'EVKIT-NOT FOR TEST'  |'http://cavwapp018.maxim-ic.com/inv/attachfile/attachfiledialog.php?pn=10-MAX9064EBSG45-B'  |'HQ(0):HBO(0):MPOC(0):DL(0)'  |'-'       |'FALSE'             |'($0)'   
+
+END_PART
+
+END.
+
+

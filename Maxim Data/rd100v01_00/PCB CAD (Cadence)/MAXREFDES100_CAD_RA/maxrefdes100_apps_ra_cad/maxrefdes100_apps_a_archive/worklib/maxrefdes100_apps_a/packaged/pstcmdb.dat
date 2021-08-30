@@ -1,0 +1,4625 @@
+; Packager-XL run on 14-Jun-2016 AT 06:56:49 CONSTRAINTS_VIEW_GENERATED
+( ConstraintFile "maxrefdes100_apps_a"
+	( constraintHeader
+		( objectKey
+			( physical )
+		)
+		( version
+			( 16.6 )
+		)
+		( revisionNumber
+			( logicalViewRevNum 963 )
+			( physicalViewRevNum 2 )
+			( otherViewRevNum 0 )
+		)
+		( contents
+			( drawing )
+			( dictionaryExtensions )
+			( worksheetCustomizations )
+			( crossSection )
+			( electricalConstraints )
+			( physicalConstraints )
+			( spacingConstraints )
+			( sameNetSpacingConstraints )
+			( netClasses )
+			( properties )
+		)
+		( precision
+			( units mil )
+			( numberOfDecimalPlaces 2 )
+		)
+	)
+	( drawing
+		( attribute "DRAWING_EXTENTS" "93290.16,93772.00"
+		)
+		( attribute "DRAWING_LOWER_LEFT" "-48805.00,-48805.00"
+		)
+	)
+	( DictionaryExtensions
+		( Attribute
+			( Name "CDS_LMAN_SYM_OUTLINE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "MAXINV" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "CLOCK" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oPin  oPinDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "FLOAT" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oPin  oPinDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "$location" )
+			( Description "" )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty )
+			)
+			( Objects
+				( ValidObjects  oAll )
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "VOLTAGE_RATING" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "SEC_TYPE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "$sec" )
+			( Description "" )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty )
+			)
+			( Objects
+				( ValidObjects  oAll )
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "CAP" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "POWER_RATING" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "RES" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "LABEL" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "VARIANT" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "SYMMAP" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "TOLERANCE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "VLOG_PARAM01" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "ECSET_MAPPING_TAG_UD" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty )
+			)
+			( Objects
+				( ValidObjects  oPart  oPinDefn  oPin  oIODriver  oSymbolDefn  oSymbol )
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "MFG_PART_NUMBER" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "REFLOW" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+	)
+	( crossSection
+		( layer "SURFACE_INDEX_0"
+			( attribute "CDS_LAYER_TYPE" "SURFACE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "AIR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "0.0000"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0002700"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "1.000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "TOP"
+			( attribute "CDS_LAYER_TYPE" "CONDUCTOR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "1OZ_COPPER"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "1.4"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "580000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "3.980"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_NAMED" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_TOP_SUBSTRATE" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ETCH_FACTOR" "90.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_EMBEDDED_STATUS" "NOT_EMBEDDED"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "DIELECTRIC_BELOW_TOP"
+			( attribute "CDS_LAYER_TYPE" "DIELECTRIC"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "ISOLA-FR408HR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "4"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.01200"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "3.400"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.009200"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "L2_GND"
+			( attribute "CDS_LAYER_TYPE" "CONDUCTOR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "0.5OZ_COPPER"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "0.7"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "580000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "3.980"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_NAMED" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ETCH_FACTOR" "90.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_EMBEDDED_STATUS" "NOT_EMBEDDED"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "DIELECTRIC_BELOW_L2_GND"
+			( attribute "CDS_LAYER_TYPE" "DIELECTRIC"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "ISOLA-FR408HR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "4"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "3.400"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.009200"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "L3_SIGNAL"
+			( attribute "CDS_LAYER_TYPE" "CONDUCTOR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "0.5OZ_COPPER"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "0.7"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "580000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_NAMED" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ETCH_FACTOR" "90.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_EMBEDDED_STATUS" "NOT_EMBEDDED"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "DIELECTRIC_BELOW_L3_SIGNAL"
+			( attribute "CDS_LAYER_TYPE" "DIELECTRIC"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "ISOLA-FR408HR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "4"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.01200"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "3.400"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.009200"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "L4_GND"
+			( attribute "CDS_LAYER_TYPE" "CONDUCTOR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "0.5OZ_COPPER"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "0.7"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "580000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_NAMED" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ETCH_FACTOR" "90.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_EMBEDDED_STATUS" "NOT_EMBEDDED"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "DIELECTRIC_BELOW_L4_GND"
+			( attribute "CDS_LAYER_TYPE" "DIELECTRIC"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "ISOLA-FR408HR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "4"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "3.400"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.009200"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "L5_SIGNAL"
+			( attribute "CDS_LAYER_TYPE" "CONDUCTOR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "0.5OZ_COPPER"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "0.7"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "580000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "3.980"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_NAMED" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ETCH_FACTOR" "90.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_EMBEDDED_STATUS" "NOT_EMBEDDED"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "DIELECTRIC_BELOW_L5_SIGNAL"
+			( attribute "CDS_LAYER_TYPE" "DIELECTRIC"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "ISOLA-FR408HR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "4"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.01200"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "3.400"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.009200"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "L6_SIGNAL"
+			( attribute "CDS_LAYER_TYPE" "CONDUCTOR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "0.5OZ_COPPER"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "0.7"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "580000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_NAMED" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ETCH_FACTOR" "90.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_EMBEDDED_STATUS" "NOT_EMBEDDED"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "DIELECTRIC_BELOW_L6_SIGNAL"
+			( attribute "CDS_LAYER_TYPE" "DIELECTRIC"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "ISOLA-FR408HR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "4"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "3.400"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.009200"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "L7_GND"
+			( attribute "CDS_LAYER_TYPE" "CONDUCTOR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "0.5OZ_COPPER"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "0.7"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "580000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_NAMED" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ETCH_FACTOR" "90.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_EMBEDDED_STATUS" "NOT_EMBEDDED"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "DIELECTRIC_BELOW_L7_GND"
+			( attribute "CDS_LAYER_TYPE" "DIELECTRIC"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "ISOLA-FR408HR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "4"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "3.400"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.009200"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "BOTTOM"
+			( attribute "CDS_LAYER_TYPE" "CONDUCTOR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "1OZ_COPPER"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "1.4"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "580000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "3.980"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_NAMED" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_BOTTOM_SUBSTRATE" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ETCH_FACTOR" "90.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_EMBEDDED_STATUS" "NOT_EMBEDDED"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "SURFACE_BELOW_BOTTOM"
+			( attribute "CDS_LAYER_TYPE" "SURFACE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "AIR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "0.0000"
+				( Units "uLayerThickness" "mil" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0002700"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "1.000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+		)
+	)
+	( designConstraints
+		( ruleChanges
+			( allRules )
+			( design "maxrefdes100_apps_a"
+				( physicalCSetRef "DEFAULT" )
+				( spacingCSetRef "DEFAULT" )
+				( sameNetSpacingCSetRef "DEFAULT" )
+				( attribute "MECH_PIN_TO_CONDUCTOR_SPACING" "12.00"
+					( Origin gBackEnd )
+				)
+				( objectFlag fObjectReadOnly )
+				( objectStatus "maxrefdes100_apps_a" )
+			)
+			( physicalCSet "DEFAULT"
+				( attribute "DIFFP_PRIMARY_GAP" "0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "DIFFP_COUPLED_PLUS" "0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "DIFFP_COUPLED_MINUS" "0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "DIFFP_MIN_SPACE" "0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MIN_LINE_WIDTH" "4.00,4.00,4.00,4.00,4.00,4.00,4.00,4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MAX_LINE_WIDTH" "0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "DIFFP_NECK_GAP" "0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MIN_NECK_WIDTH" "8.00,4.00,4.00,4.00,4.00,4.00,4.00,8.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MAXIMUM_NECK_LENGTH" "0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "VIA_LIST" "V14H8,V10H5,V12H6"
+					( Origin gBackEnd )
+				)
+				( attribute "ALLOW_ON_ETCH_SUBCLASS" "TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE"
+					( Origin gBackEnd )
+				)
+				( attribute "TS_ALLOWED" "ANYWHERE,ANYWHERE,ANYWHERE,ANYWHERE,ANYWHERE,ANYWHERE,ANYWHERE,ANYWHERE"
+					( Origin gBackEnd )
+				)
+				( attribute "MIN_BVIA_STAGGER" "0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MAX_BVIA_STAGGER" "0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "PAD_PAD_DIRECT_CONNECT" "ALL_ALLOWED,ALL_ALLOWED,ALL_ALLOWED,ALL_ALLOWED,ALL_ALLOWED,ALL_ALLOWED,ALL_ALLOWED,ALL_ALLOWED"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\DEFAULT\" )
+			)
+			( spacingCSet "DEFAULT"
+				( attribute "THRUPIN_TO_THRUPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_SMDPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTPIN_TO_THRUPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_THRUVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTVIA_TO_THRUPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_THRUPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_BONDPAD_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_THRUPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_SHAPE_SPACING" "6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_SMDPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_TESTPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_THRUVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_TESTVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_SMDPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_BONDPAD_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_SMDPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_SMDPIN_SPACING" "6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTPIN_TO_TESTPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTPIN_TO_THRUVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTPIN_TO_TESTVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_TESTPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_TESTPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_TESTPIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_TESTPIN_SPACING" "6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUVIA_TO_THRUVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTVIA_TO_THRUVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_THRUVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_THRUVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_THRUVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_THRUVIA_SPACING" "6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTVIA_TO_TESTVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_TESTVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_TESTVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_TESTVIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_TESTVIA_SPACING" "6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_BBV_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_BBV_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_LINE_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_SHAPE_SPACING" "6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_BONDPAD_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_LINE_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_SHAPE_SPACING" "6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_LINE_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_SHAPE_SPACING" "6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_SHAPE_SPACING" "6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_PIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_VIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_LINE_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_SHAPE_SPACING" "6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_HOLE_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_MVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_THRUPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_SMDPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_THRUVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_BBV_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_LINE_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_SHAPE_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_TESTPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_TESTVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_MVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MIN_BVIA_GAP" "5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_BONDPAD_DIFFP_SPC" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\DEFAULT\" )
+			)
+			( sameNetSpacingCSet "DEFAULT"
+				( attribute "SAME_NET" "FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_THRUPIN_TO_THRUPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_THRUPIN_TO_SMDPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTPIN_TO_THRUPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_THRUPIN_TO_THRUVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTVIA_TO_THRUPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_THRUPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_THRUPIN_TO_BONDPAD_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_THRUPIN_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_THRUPIN_TO_SHAPE_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SMDPIN_TO_SMDPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SMDPIN_TO_TESTPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SMDPIN_TO_THRUVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SMDPIN_TO_TESTVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_SMDPIN_SPACING" "0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SMDPIN_TO_BONDPAD_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_SMDPIN_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SHAPE_TO_SMDPIN_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTPIN_TO_TESTPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTPIN_TO_THRUVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTPIN_TO_TESTVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_TESTPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_TESTPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_TESTPIN_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SHAPE_TO_TESTPIN_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_THRUVIA_TO_THRUVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTVIA_TO_THRUVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_THRUVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_THRUVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_THRUVIA_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SHAPE_TO_THRUVIA_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTVIA_TO_TESTVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_TESTVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_TESTVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_TESTVIA_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SHAPE_TO_TESTVIA_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_BBV_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_BBV_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_LINE_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_SHAPE_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_BONDPAD_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_LINE_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_SHAPE_SPACING" "25.00,25.00,25.00,25.00,25.00,25.00,25.00,25.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_LINE_SPACING" "6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_SHAPE_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SHAPE_TO_SHAPE_SPACING" "25.00,25.00,25.00,25.00,25.00,25.00,25.00,25.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_HOLE_TO_PIN_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_HOLE_TO_VIA_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_HOLE_TO_LINE_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_HOLE_TO_SHAPE_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_HOLE_TO_HOLE_SPACING" "5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_MVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_THRUPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_SMDPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_THRUVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_BBV_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_LINE_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_SHAPE_SPACING" "10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_TESTPIN_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_TESTVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_MVIA_SPACING" "15.00,15.00,15.00,15.00,15.00,15.00,15.00,15.00"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\DEFAULT\" )
+			)
+			( signal "GROUND"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):ground" )
+			)
+			( signal "UNNAMED_1_CAPNP_I93_1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_capnp_i93_1" )
+			)
+			( signal "HVOUT"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):hvout" )
+			)
+			( signal "1V8"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\1v8\" )
+			)
+			( signal "VREF"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):vref" )
+			)
+			( signal "UNNAMED_1_CAPNP_I58_1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_capnp_i58_1" )
+			)
+			( signal "UNNAMED_1_CAPNP_I130_1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_capnp_i130_1" )
+			)
+			( signal "UNNAMED_1_CAPNP_I130_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_capnp_i130_2" )
+			)
+			( signal "UNNAMED_1_CAPNP_I131_1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_capnp_i131_1" )
+			)
+			( signal "UNNAMED_1_CAPNP_I131_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_capnp_i131_2" )
+			)
+			( signal "UNNAMED_1_CAPNP_I29_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_capnp_i29_2" )
+			)
+			( signal "UNNAMED_1_CAPNP_I23_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_capnp_i23_2" )
+			)
+			( signal "UNNAMED_1_CAPNP_I56_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_capnp_i56_2" )
+			)
+			( signal "SCL_P6.0"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\scl_p6.0\" )
+			)
+			( signal "SDA_P5.7"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\sda_p5.7\" )
+			)
+			( signal "CSB_P0.7"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\csb_p0.7\" )
+			)
+			( signal "INTB2_P4.5"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\intb2_p4.5\" )
+			)
+			( signal "SCLK_P0.4"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\sclk_p0.4\" )
+			)
+			( signal "SDI_P0.5"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\sdi_p0.5\" )
+			)
+			( signal "SDO_P0.6"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\sdo_p0.6\" )
+			)
+			( signal "UNNAMED_1_EKMAX30033_I124_IN3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_ekmax30033_i124_in3" )
+			)
+			( signal "UNNAMED_1_EKMAX30033_I125_IN2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_ekmax30033_i125_in2" )
+			)
+			( signal "FCLK_P1.7"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\fclk_p1.7\" )
+			)
+			( signal "UNNAMED_1_EKMAX30033_I125_IN1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_ekmax30033_i125_in1" )
+			)
+			( signal "INT_P4.0"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\int_p4.0\" )
+			)
+			( signal "INTB_P3.6"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\intb_p3.6\" )
+			)
+			( signal "ACC_EN"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):acc_en" )
+			)
+			( signal "CSB_P4.6"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\csb_p4.6\" )
+			)
+			( signal "SCL_P3.5"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\scl_p3.5\" )
+			)
+			( signal "SDA_P3.4"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\sda_p3.4\" )
+			)
+			( signal "UNNAMED_1_EKMAX30033_I124_IN1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_ekmax30033_i124_in1" )
+			)
+			( signal "UNNAMED_1_EVKITTP_I115_TP1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_evkittp_i115_tp1" )
+			)
+			( signal "BLE_MISO2B_P5.2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\ble_miso2b_p5.2\" )
+			)
+			( signal "BLE_MOSI2B_P5.1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\ble_mosi2b_p5.1\" )
+			)
+			( signal "BLE_RST_P4.2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\ble_rst_p4.2\" )
+			)
+			( signal "BLE_SCK2B_P5.0"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\ble_sck2b_p5.0\" )
+			)
+			( signal "BLE_SR2B_P5.6"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\ble_sr2b_p5.6\" )
+			)
+			( signal "BLE_SSEL2B_P5.3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\ble_ssel2b_p5.3\" )
+			)
+			( signal "UNNAMED_7_2450AT42B100E_I28_INPUT"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_2450at42b100e_i28_input" )
+			)
+			( signal "UNNAMED_7_74C2T45_I61_B2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_74c2t45_i61_b2" )
+			)
+			( signal "UNNAMED_7_BALUN_I2_BP1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_balun_i2_bp1" )
+			)
+			( signal "UNNAMED_7_BALUN_I2_BP2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_balun_i2_bp2" )
+			)
+			( signal "UNNAMED_7_BALUN_I2_UP"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_balun_i2_up" )
+			)
+			( signal "UNNAMED_7_CAPNP_I17_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_capnp_i17_2" )
+			)
+			( signal "UNNAMED_7_CAPNP_I35_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_capnp_i35_2" )
+			)
+			( signal "UNNAMED_7_CAPNP_I5_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_capnp_i5_2" )
+			)
+			( signal "UNNAMED_7_CAPNP_I6_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_capnp_i6_2" )
+			)
+			( signal "UNNAMED_7_EM9301_I4_AVSSPLL3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_em9301_i4_avsspll3" )
+			)
+			( signal "UNNAMED_7_EM9301_I4_IRQ"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_em9301_i4_irq" )
+			)
+			( signal "UNNAMED_7_EM9301_I4_RST"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_em9301_i4_rst" )
+			)
+			( signal "UNNAMED_7_EM9301_I4_SPISCK"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_em9301_i4_spisck" )
+			)
+			( signal "UNNAMED_7_EM9301_I4_UARTRX"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_em9301_i4_uartrx" )
+			)
+			( signal "UNNAMED_7_EM9301_I4_WU"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_7_em9301_i4_wu" )
+			)
+			( signal "VSYS"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):vsys" )
+			)
+			( signal "1V2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\1v2\" )
+			)
+			( signal "3V3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\3v3\" )
+			)
+			( signal "KOUT_P2.1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\kout_p2.1\" )
+			)
+			( signal "MON_AIN0"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):mon_ain0" )
+			)
+			( signal "MPC_P4.3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\mpc_p4.3\" )
+			)
+			( signal "RST_N"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):rst_n" )
+			)
+			( signal "RX1RX2+"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\rx1rx2+\" )
+			)
+			( signal "RX1RX2-"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\rx1rx2-\" )
+			)
+			( signal "SRST_N"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):srst_n" )
+			)
+			( signal "TCK/SWCLK"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\tck/swclk\" )
+			)
+			( signal "TMS/SWDIO"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\tms/swdio\" )
+			)
+			( signal "TX1TX2+"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\tx1tx2+\" )
+			)
+			( signal "TX1TX2-"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\tx1tx2-\" )
+			)
+			( signal "UART_RX"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):uart_rx" )
+			)
+			( signal "UART_TX"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):uart_tx" )
+			)
+			( signal "UNNAMED_9_741G97_I154_A"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_741g97_i154_a" )
+			)
+			( signal "UNNAMED_9_741G97_I154_C"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_741g97_i154_c" )
+			)
+			( signal "UNNAMED_9_741G97_I155_C"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_741g97_i155_c" )
+			)
+			( signal "UNNAMED_9_741G97_I156_Y"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_741g97_i156_y" )
+			)
+			( signal "UNNAMED_9_CAPNP_I137_1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_capnp_i137_1" )
+			)
+			( signal "UNNAMED_9_CAPNP_I140_1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_capnp_i140_1" )
+			)
+			( signal "UNNAMED_9_CAPNP_I44_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_capnp_i44_2" )
+			)
+			( signal "UNNAMED_9_CAPNP_I81_1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_capnp_i81_1" )
+			)
+			( signal "UNNAMED_9_CAPNP_I81_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_capnp_i81_2" )
+			)
+			( signal "UNNAMED_9_EVP-AAXXXX_I83_3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\unnamed_9_evp-aaxxxx_i83_3\" )
+			)
+			( signal "UNNAMED_9_INDUCT_I168_1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_induct_i168_1" )
+			)
+			( signal "UNNAMED_9_INDUCT_I168_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_induct_i168_2" )
+			)
+			( signal "UNNAMED_9_INDUCT_I28_1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_induct_i28_1" )
+			)
+			( signal "UNNAMED_9_MAX4995_I115_SETI"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_max4995_i115_seti" )
+			)
+			( signal "UNNAMED_9_MAX8881_I61_SHDN"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_max8881_i61_shdn" )
+			)
+			( signal "UNNAMED_9_RESSMD_I133_1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_9_ressmd_i133_1" )
+			)
+			( signal "USB_A5"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):usb_a5" )
+			)
+			( signal "USB_A9B9"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):usb_a9b9" )
+			)
+			( signal "USB_B5"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):usb_b5" )
+			)
+			( signal "USB_DM"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):usb_dm" )
+			)
+			( signal "USB_DP"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):usb_dp" )
+			)
+			( signal "USB_SBU12"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):usb_sbu12" )
+			)
+			( signal "USB_VBUS"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):usb_vbus" )
+			)
+			( signal "VBAT"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):vbat" )
+			)
+			( signal "VBAT3V3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\vbat|3v3\" )
+			)
+			( signal "CSB_P1.3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\csb_p1.3\" )
+			)
+			( signal "F_RST/IO3_P1.5"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\f_rst/io3_p1.5\" )
+			)
+			( signal "SCLK_P1.0"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\sclk_p1.0\" )
+			)
+			( signal "SI/IO0_P1.1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\si/io0_p1.1\" )
+			)
+			( signal "SO/IO1_P1.2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\so/io1_p1.2\" )
+			)
+			( signal "TDI"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):tdi" )
+			)
+			( signal "TDO"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):tdo" )
+			)
+			( signal "UNNAMED_10_CAPNP_I76_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_10_capnp_i76_2" )
+			)
+			( signal "UNNAMED_10_LED_I212_A"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_10_led_i212_a" )
+			)
+			( signal "UNNAMED_10_LED_I212_B"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_10_led_i212_b" )
+			)
+			( signal "UNNAMED_10_MAX32620_I1_32KIN"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_10_max32620_i1_32kin" )
+			)
+			( signal "UNNAMED_10_MAX32620_I1_32KOUT"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_10_max32620_i1_32kout" )
+			)
+			( signal "UNNAMED_10_MAX32620_I1_P20"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_10_max32620_i1_p20" )
+			)
+			( signal "UNNAMED_10_RESSMD_I207_1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_10_ressmd_i207_1" )
+			)
+			( signal "WP/IO2_P1.4"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\wp/io2_p1.4\" )
+			)
+			( signal "UNNAMED_1_CAPNP_I120_1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_capnp_i120_1" )
+			)
+			( signal "UNNAMED_1_CAPNP_I120_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_capnp_i120_2" )
+			)
+			( signal "DBG_EN"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):dbg_en" )
+			)
+			( signal "UNNAMED_8_MAX30205_I83_SCL"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_8_max30205_i83_scl" )
+			)
+			( signal "UNNAMED_8_MAX30205_I83_SDA"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_8_max30205_i83_sda" )
+			)
+			( signal "INT_P4.4"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\int_p4.4\" )
+			)
+			( signal "INT_P4.7"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\int_p4.7\" )
+			)
+			( signal "INT_P2.3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\int_p2.3\" )
+			)
+			( signal "EN_ACC_P2.7"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):\en_acc_p2.7\" )
+			)
+			( signal "VTEMP"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):vtemp" )
+			)
+			( signal "UNNAMED_8_MAX8880_I85_FB"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_8_max8880_i85_fb" )
+			)
+			( signal "UNNAMED_1_CAP4P_I100_A"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_cap4p_i100_a" )
+			)
+			( signal "UNNAMED_1_CAP4P_I100_B"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_cap4p_i100_b" )
+			)
+			( signal "UNNAMED_1_CAPNP_I134_2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_capnp_i134_2" )
+			)
+			( signal "UNNAMED_1_EKMAX30003_I20_AOUT"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_ekmax30003_i20_aout" )
+			)
+			( signal "UNNAMED_1_EKMAX30003_I20_DRVN"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_ekmax30003_i20_drvn" )
+			)
+			( signal "UNNAMED_1_EKMAX30003_I20_DRVP"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_ekmax30003_i20_drvp" )
+			)
+			( signal "UNNAMED_1_EKMAX30003_I20_RBIAS"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):unnamed_1_ekmax30003_i20_rbias" )
+			)
+			( gate "C45"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i45" )
+				( pin "C45.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C45.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C29"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i130" )
+				( pin "C29.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C29.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R27"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i39" )
+				( pin "R27.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R27.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C17"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i134" )
+				( pin "C17.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C17.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i29" )
+				( pin "C3.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C3.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C4"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i21" )
+				( pin "C4.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C4.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i23" )
+				( pin "C2.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C2.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "VCM"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i115" )
+				( pin "VCM.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "VREF"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i109" )
+				( pin "VREF.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "VBG"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i107" )
+				( pin "VBG.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "AOUT"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i110" )
+				( pin "AOUT.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "U10"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i124" )
+				( pin "U10.9"
+					( objectStatus "ep" )
+				)
+				( pin "U10.2"
+					( objectStatus "gnd1" )
+				)
+				( pin "U10.3"
+					( objectStatus "gnd2" )
+				)
+				( pin "U10.7"
+					( objectStatus "gnd3" )
+				)
+				( pin "U10.1"
+					( objectStatus "in1" )
+				)
+				( pin "U10.4"
+					( objectStatus "in2" )
+				)
+				( pin "U10.8"
+					( objectStatus "in3" )
+				)
+				( pin "U10.5"
+					( objectStatus "nc1" )
+				)
+				( pin "U10.6"
+					( objectStatus "nc2" )
+				)
+			)
+			( gate "U1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i125" )
+				( pin "U1.9"
+					( objectStatus "ep" )
+				)
+				( pin "U1.2"
+					( objectStatus "gnd1" )
+				)
+				( pin "U1.3"
+					( objectStatus "gnd2" )
+				)
+				( pin "U1.7"
+					( objectStatus "gnd3" )
+				)
+				( pin "U1.1"
+					( objectStatus "in1" )
+				)
+				( pin "U1.4"
+					( objectStatus "in2" )
+				)
+				( pin "U1.8"
+					( objectStatus "in3" )
+				)
+				( pin "U1.5"
+					( objectStatus "nc1" )
+				)
+				( pin "U1.6"
+					( objectStatus "nc2" )
+				)
+			)
+			( gate "C15"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i120" )
+				( pin "C15.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C15.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R6"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i43" )
+				( pin "R6.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R6.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R21"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i42" )
+				( pin "R21.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R21.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R43"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i46" )
+				( pin "R43.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R43.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i131" )
+				( pin "C1.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C1.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C43"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i50" )
+				( pin "C43.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C43.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R38"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i119" )
+				( pin "R38.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R38.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R45"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i53" )
+				( pin "R45.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R45.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R44"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i54" )
+				( pin "R44.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R44.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R9"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i118" )
+				( pin "R9.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R9.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C47"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i56" )
+				( pin "C47.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C47.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C51"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i58" )
+				( pin "C51.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C51.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C52"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i60" )
+				( pin "C52.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C52.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R30"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i117" )
+				( pin "R30.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R30.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C12"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i102" )
+				( pin "C12.A"
+					( objectStatus "a" )
+				)
+				( pin "C12.B"
+					( objectStatus "b" )
+				)
+				( pin "C12.G1"
+					( objectStatus "g1" )
+				)
+				( pin "C12.G2"
+					( objectStatus "g2" )
+				)
+			)
+			( gate "C6"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i133" )
+				( pin "C6.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C6.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "DRVP"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i81" )
+				( pin "DRVP.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "DRVN"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i82" )
+				( pin "DRVN.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "BIP"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i83" )
+				( pin "BIP.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "BIN"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i84" )
+				( pin "BIN.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "ECGN"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i85" )
+				( pin "ECGN.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "ECGP"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i86" )
+				( pin "ECGP.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "R10"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i87" )
+				( pin "R10.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R10.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C18"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i89" )
+				( pin "C18.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C18.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C44"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i104" )
+				( pin "C44.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C44.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C55"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i93" )
+				( pin "C55.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C55.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R26"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i116" )
+				( pin "R26.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R26.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "GND"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i111" )
+				( pin "GND.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "C7"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i100" )
+				( pin "C7.A"
+					( objectStatus "a" )
+				)
+				( pin "C7.B"
+					( objectStatus "b" )
+				)
+				( pin "C7.G1"
+					( objectStatus "g1" )
+				)
+				( pin "C7.G2"
+					( objectStatus "g2" )
+				)
+			)
+			( gate "C11"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i28" )
+				( pin "C11.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C11.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C49"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i5" )
+				( pin "C49.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C49.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R12"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i23" )
+				( pin "R12.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R12.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R7"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i24" )
+				( pin "R7.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R7.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C8"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i12" )
+				( pin "C8.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C8.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i223" )
+				( pin "R2.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R2.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R15"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i22" )
+				( pin "R15.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R15.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U17"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i2" )
+				( pin "U17.13"
+					( objectStatus "\/int\" )
+				)
+				( pin "U17.7"
+					( objectStatus "g_drv" )
+				)
+				( pin "U17.12"
+					( objectStatus "gnd" )
+				)
+				( pin "U17.6"
+					( objectStatus "ir_drv" )
+				)
+				( pin "U17.1"
+					( objectStatus "nc_1" )
+				)
+				( pin "U17.8"
+					( objectStatus "nc_2" )
+				)
+				( pin "U17.14"
+					( objectStatus "nc_3" )
+				)
+				( pin "U17.4"
+					( objectStatus "pgnd" )
+				)
+				( pin "U17.5"
+					( objectStatus "r_drv" )
+				)
+				( pin "U17.2"
+					( objectStatus "scl" )
+				)
+				( pin "U17.3"
+					( objectStatus "sda" )
+				)
+				( pin "U17.11"
+					( objectStatus "vdd" )
+				)
+				( pin "U17.9"
+					( objectStatus "\vled+_1\" )
+				)
+				( pin "U17.10"
+					( objectStatus "\vled+_2\" )
+				)
+			)
+			( gate "R8"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i114" )
+				( pin "R8.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R8.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C48"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i4" )
+				( pin "C48.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C48.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U14"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i3" )
+				( pin "U14.4"
+					( objectStatus "cs" )
+				)
+				( pin "U14.9"
+					( objectStatus "gnd_1" )
+				)
+				( pin "U14.10"
+					( objectStatus "gnd_2" )
+				)
+				( pin "U14.11"
+					( objectStatus "gnd_3" )
+				)
+				( pin "U14.6"
+					( objectStatus "int1" )
+				)
+				( pin "U14.5"
+					( objectStatus "int2" )
+				)
+				( pin "U14.12"
+					( objectStatus "res_1" )
+				)
+				( pin "U14.13"
+					( objectStatus "res_2" )
+				)
+				( pin "U14.14"
+					( objectStatus "res_3" )
+				)
+				( pin "U14.1"
+					( objectStatus "\scl/spc\" )
+				)
+				( pin "U14.2"
+					( objectStatus "\sda/sdi/sdo\" )
+				)
+				( pin "U14.3"
+					( objectStatus "\sdo/sa0\" )
+				)
+				( pin "U14.8"
+					( objectStatus "vdd" )
+				)
+				( pin "U14.7"
+					( objectStatus "vdd_io" )
+				)
+			)
+			( gate "R29"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i113" )
+				( pin "R29.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R29.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C9"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i30" )
+				( pin "C9.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C9.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R34"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i32" )
+				( pin "R34.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R34.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R33"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i33" )
+				( pin "R33.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R33.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U9"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i85" )
+				( pin "U9.4"
+					( objectStatus "fb" )
+				)
+				( pin "U9.2"
+					( objectStatus "gnd" )
+				)
+				( pin "U9.1"
+					( objectStatus "\in\" )
+				)
+				( pin "U9.3"
+					( objectStatus "\out\" )
+				)
+				( pin "U9.6"
+					( objectStatus "pok" )
+				)
+				( pin "U9.5"
+					( objectStatus "\shdn*\" )
+				)
+			)
+			( gate "C34"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i43" )
+				( pin "C34.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C34.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C28"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i46" )
+				( pin "C28.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C28.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U5"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i55" )
+				( pin "U5.2"
+					( objectStatus "csb" )
+				)
+				( pin "U5.1"
+					( objectStatus "gnd1" )
+				)
+				( pin "U5.7"
+					( objectStatus "gnd2" )
+				)
+				( pin "U5.4"
+					( objectStatus "sck" )
+				)
+				( pin "U5.3"
+					( objectStatus "sdi" )
+				)
+				( pin "U5.5"
+					( objectStatus "sdo" )
+				)
+				( pin "U5.8"
+					( objectStatus "vdd" )
+				)
+				( pin "U5.6"
+					( objectStatus "vddio" )
+				)
+			)
+			( gate "C19"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i57" )
+				( pin "C19.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C19.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C10"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i59" )
+				( pin "C10.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C10.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C14"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i64" )
+				( pin "C14.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C14.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C46"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i68" )
+				( pin "C46.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C46.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U12"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i83" )
+				( pin "U12.7"
+					( objectStatus "a0" )
+				)
+				( pin "U12.6"
+					( objectStatus "a1" )
+				)
+				( pin "U12.5"
+					( objectStatus "a2" )
+				)
+				( pin "U12.9"
+					( objectStatus "ep" )
+				)
+				( pin "U12.4"
+					( objectStatus "gnd" )
+				)
+				( pin "U12.3"
+					( objectStatus "os" )
+				)
+				( pin "U12.2"
+					( objectStatus "scl" )
+				)
+				( pin "U12.1"
+					( objectStatus "sda" )
+				)
+				( pin "U12.8"
+					( objectStatus "vdd" )
+				)
+			)
+			( gate "R22"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i77" )
+				( pin "R22.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R22.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R31"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i78" )
+				( pin "R31.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R31.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U13"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i79" )
+				( pin "U13.12"
+					( objectStatus "cs" )
+				)
+				( pin "U13.6"
+					( objectStatus "gnd_1" )
+				)
+				( pin "U13.7"
+					( objectStatus "gnd_2" )
+				)
+				( pin "U13.4"
+					( objectStatus "int1" )
+				)
+				( pin "U13.9"
+					( objectStatus "int2" )
+				)
+				( pin "U13.11"
+					( objectStatus "nc" )
+				)
+				( pin "U13.10"
+					( objectStatus "ocs" )
+				)
+				( pin "U13.13"
+					( objectStatus "scl" )
+				)
+				( pin "U13.3"
+					( objectStatus "scx" )
+				)
+				( pin "U13.14"
+					( objectStatus "sda" )
+				)
+				( pin "U13.1"
+					( objectStatus "\sdo/sa0\" )
+				)
+				( pin "U13.2"
+					( objectStatus "sdx" )
+				)
+				( pin "U13.8"
+					( objectStatus "vdd" )
+				)
+				( pin "U13.5"
+					( objectStatus "vddio" )
+				)
+			)
+			( gate "Q3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i81" )
+				( pin "Q3.3"
+					( objectStatus "d1" )
+				)
+				( pin "Q3.1"
+					( objectStatus "g" )
+				)
+				( pin "Q3.2"
+					( objectStatus "s" )
+				)
+			)
+			( gate "Q1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i82" )
+				( pin "Q1.3"
+					( objectStatus "d1" )
+				)
+				( pin "Q1.1"
+					( objectStatus "g" )
+				)
+				( pin "Q1.2"
+					( objectStatus "s" )
+				)
+			)
+			( gate "EV_KIT_BOX1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page12_i1" )
+			)
+			( gate "U2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i84" )
+				( pin "U2.7"
+					( objectStatus "a0" )
+				)
+				( pin "U2.6"
+					( objectStatus "a1" )
+				)
+				( pin "U2.5"
+					( objectStatus "a2" )
+				)
+				( pin "U2.9"
+					( objectStatus "ep" )
+				)
+				( pin "U2.4"
+					( objectStatus "gnd" )
+				)
+				( pin "U2.3"
+					( objectStatus "os" )
+				)
+				( pin "U2.2"
+					( objectStatus "scl" )
+				)
+				( pin "U2.1"
+					( objectStatus "sda" )
+				)
+				( pin "U2.8"
+					( objectStatus "vdd" )
+				)
+			)
+			( gate "T1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i2" )
+				( pin "T1.3"
+					( objectStatus "bp1" )
+				)
+				( pin "T1.4"
+					( objectStatus "bp2" )
+				)
+				( pin "T1.2"
+					( objectStatus "gnd1" )
+				)
+				( pin "T1.5"
+					( objectStatus "gnd2" )
+				)
+				( pin "T1.6"
+					( objectStatus "nc" )
+				)
+				( pin "T1.1"
+					( objectStatus "up" )
+				)
+			)
+			( gate "Y1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i3" )
+				( pin "Y1.2"
+					( objectStatus "nc1" )
+				)
+				( pin "Y1.4"
+					( objectStatus "nc2" )
+				)
+				( pin "Y1.1"
+					( objectStatus "p1" )
+				)
+				( pin "Y1.3"
+					( objectStatus "p2" )
+				)
+			)
+			( gate "U7"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i4" )
+				( pin "U7.15"
+					( objectStatus "antn" )
+				)
+				( pin "U7.16"
+					( objectStatus "antp" )
+				)
+				( pin "U7.13"
+					( objectStatus "avdd_pa" )
+				)
+				( pin "U7.14"
+					( objectStatus "avss_pa" )
+				)
+				( pin "U7.20"
+					( objectStatus "avss_pll1" )
+				)
+				( pin "U7.12"
+					( objectStatus "avss_pll2" )
+				)
+				( pin "U7.19"
+					( objectStatus "avss_pll3" )
+				)
+				( pin "U7.17"
+					( objectStatus "avss_rf" )
+				)
+				( pin "U7.25"
+					( objectStatus "ep" )
+				)
+				( pin "U7.24"
+					( objectStatus "irq" )
+				)
+				( pin "U7.23"
+					( objectStatus "rst" )
+				)
+				( pin "U7.11"
+					( objectStatus "sel" )
+				)
+				( pin "U7.3"
+					( objectStatus "spi_sck" )
+				)
+				( pin "U7.7"
+					( objectStatus "sw_dcdc" )
+				)
+				( pin "U7.2"
+					( objectStatus "\uart_rx/spi_mosi\" )
+				)
+				( pin "U7.1"
+					( objectStatus "\uart_tx/spi_miso\" )
+				)
+				( pin "U7.9"
+					( objectStatus "vbat" )
+				)
+				( pin "U7.8"
+					( objectStatus "vcc1" )
+				)
+				( pin "U7.18"
+					( objectStatus "vcc2" )
+				)
+				( pin "U7.4"
+					( objectStatus "vdd" )
+				)
+				( pin "U7.5"
+					( objectStatus "vss" )
+				)
+				( pin "U7.6"
+					( objectStatus "vss_dcdc" )
+				)
+				( pin "U7.10"
+					( objectStatus "\wu/csn\" )
+				)
+				( pin "U7.22"
+					( objectStatus "xtal1" )
+				)
+				( pin "U7.21"
+					( objectStatus "xtal2" )
+				)
+			)
+			( gate "C25"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i5" )
+				( pin "C25.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C25.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C22"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i6" )
+				( pin "C22.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C22.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R20"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i67" )
+				( pin "R20.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R20.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C31"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i17" )
+				( pin "C31.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C31.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C30"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i18" )
+				( pin "C30.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C30.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "L4"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i23" )
+				( pin "L4.1"
+					( objectStatus "\1\" )
+				)
+				( pin "L4.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "L3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i24" )
+				( pin "L3.1"
+					( objectStatus "\1\" )
+				)
+				( pin "L3.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C35"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i26" )
+				( pin "C35.1"
+					( objectStatus "a" )
+				)
+				( pin "C35.2"
+					( objectStatus "b" )
+				)
+			)
+			( gate "ANT1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i28" )
+				( pin "ANT1.1"
+					( objectStatus "input" )
+				)
+				( pin "ANT1.2"
+					( objectStatus "nc_1" )
+				)
+				( pin "ANT1.3"
+					( objectStatus "nc_2" )
+				)
+				( pin "ANT1.4"
+					( objectStatus "nc_3" )
+				)
+			)
+			( gate "C32"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i29" )
+				( pin "C32.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C32.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C13"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i35" )
+				( pin "C13.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C13.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C16"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i36" )
+				( pin "C16.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C16.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R17"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i39" )
+				( pin "R17.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R17.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C27"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i40" )
+				( pin "C27.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C27.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C26"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i41" )
+				( pin "C26.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C26.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R19"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i44" )
+				( pin "R19.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R19.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R16"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i45" )
+				( pin "R16.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R16.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C20"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i55" )
+				( pin "C20.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C20.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U8"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i57" )
+				( pin "U8.B2"
+					( objectStatus "gnd" )
+				)
+				( pin "U8.C7"
+					( objectStatus "in_1" )
+				)
+				( pin "U8.C5"
+					( objectStatus "in_2" )
+				)
+				( pin "U8.C3"
+					( objectStatus "in_3" )
+				)
+				( pin "U8.C1"
+					( objectStatus "in_4" )
+				)
+				( pin "U8.A7"
+					( objectStatus "out_1" )
+				)
+				( pin "U8.A5"
+					( objectStatus "out_2" )
+				)
+				( pin "U8.A3"
+					( objectStatus "out_3" )
+				)
+				( pin "U8.A1"
+					( objectStatus "out_4" )
+				)
+				( pin "U8.B6"
+					( objectStatus "vcca" )
+				)
+				( pin "U8.B4"
+					( objectStatus "vccb" )
+				)
+			)
+			( gate "U6"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i61" )
+				( pin "U6.B1"
+					( objectStatus "a1" )
+				)
+				( pin "U6.C1"
+					( objectStatus "a2" )
+				)
+				( pin "U6.B2"
+					( objectStatus "b1" )
+				)
+				( pin "U6.C2"
+					( objectStatus "b2" )
+				)
+				( pin "U6.D2"
+					( objectStatus "dir" )
+				)
+				( pin "U6.D1"
+					( objectStatus "gnd" )
+				)
+				( pin "U6.A1"
+					( objectStatus "vcca" )
+				)
+				( pin "U6.A2"
+					( objectStatus "vccb" )
+				)
+			)
+			( gate "U11"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i1" )
+				( pin "U11.A1"
+					( objectStatus "bin" )
+				)
+				( pin "U11.A2"
+					( objectStatus "blx" )
+				)
+				( pin "U11.A3"
+					( objectStatus "bout" )
+				)
+				( pin "U11.D5"
+					( objectStatus "cap" )
+				)
+				( pin "U11.B2"
+					( objectStatus "gnd_1" )
+				)
+				( pin "U11.B3"
+					( objectStatus "gnd_2" )
+				)
+				( pin "U11.C2"
+					( objectStatus "gnd_3" )
+				)
+				( pin "U11.C3"
+					( objectStatus "gnd_4" )
+				)
+				( pin "U11.D2"
+					( objectStatus "gnd_5" )
+				)
+				( pin "U11.E3"
+					( objectStatus "hvilx" )
+				)
+				( pin "U11.E4"
+					( objectStatus "hvin" )
+				)
+				( pin "U11.E2"
+					( objectStatus "hvolx" )
+				)
+				( pin "U11.E1"
+					( objectStatus "hvout" )
+				)
+				( pin "U11.D3"
+					( objectStatus "\kin#\" )
+				)
+				( pin "U11.E5"
+					( objectStatus "\kout#\" )
+				)
+				( pin "U11.A4"
+					( objectStatus "lin" )
+				)
+				( pin "U11.A5"
+					( objectStatus "lout" )
+				)
+				( pin "U11.B1"
+					( objectStatus "mon" )
+				)
+				( pin "U11.C4"
+					( objectStatus "mpc" )
+				)
+				( pin "U11.D4"
+					( objectStatus "\rst#\" )
+				)
+				( pin "U11.D1"
+					( objectStatus "scl" )
+				)
+				( pin "U11.C1"
+					( objectStatus "sda" )
+				)
+				( pin "U11.B5"
+					( objectStatus "swin" )
+				)
+				( pin "U11.C5"
+					( objectStatus "swout" )
+				)
+				( pin "U11.B4"
+					( objectStatus "vcc" )
+				)
+			)
+			( gate "C40"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i2" )
+				( pin "C40.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C40.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C37"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i25" )
+				( pin "C37.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C37.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "L2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i28" )
+				( pin "L2.1"
+					( objectStatus "\1\" )
+				)
+				( pin "L2.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C5"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i29" )
+				( pin "C5.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C5.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C41"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i33" )
+				( pin "C41.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C41.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C39"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i44" )
+				( pin "C39.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C39.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "Q4"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i58" )
+				( pin "Q4.1"
+					( objectStatus "a" )
+				)
+				( pin "Q4.3"
+					( objectStatus "d_1" )
+				)
+				( pin "Q4.8"
+					( objectStatus "d_2" )
+				)
+				( pin "Q4.5"
+					( objectStatus "g" )
+				)
+				( pin "Q4.6"
+					( objectStatus "k_1" )
+				)
+				( pin "Q4.7"
+					( objectStatus "k_2" )
+				)
+				( pin "Q4.2"
+					( objectStatus "nc" )
+				)
+				( pin "Q4.4"
+					( objectStatus "s" )
+				)
+			)
+			( gate "U4"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i61" )
+				( pin "U4.4"
+					( objectStatus "fb" )
+				)
+				( pin "U4.2"
+					( objectStatus "gnd" )
+				)
+				( pin "U4.1"
+					( objectStatus "\in\" )
+				)
+				( pin "U4.3"
+					( objectStatus "\out\" )
+				)
+				( pin "U4.6"
+					( objectStatus "pok" )
+				)
+				( pin "U4.5"
+					( objectStatus "\shdn*\" )
+				)
+			)
+			( gate "C21"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i64" )
+				( pin "C21.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C21.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R13"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i67" )
+				( pin "R13.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R13.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C36"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i81" )
+				( pin "C36.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C36.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "SW1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i83" )
+				( pin "SW1.1"
+					( objectStatus "\1\" )
+				)
+				( pin "SW1.2"
+					( objectStatus "\2\" )
+				)
+				( pin "SW1.3"
+					( objectStatus "\3\" )
+				)
+				( pin "SW1.4"
+					( objectStatus "\4\" )
+				)
+			)
+			( gate "R24"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i86" )
+				( pin "R24.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R24.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R36"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i87" )
+				( pin "R36.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R36.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C53"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i88" )
+				( pin "C53.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C53.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "CN1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i95" )
+				( pin "CN1.A1"
+					( objectStatus "a1" )
+				)
+				( pin "CN1.A2"
+					( objectStatus "a2" )
+				)
+				( pin "CN1.A3"
+					( objectStatus "a3" )
+				)
+				( pin "CN1.A4"
+					( objectStatus "a4" )
+				)
+				( pin "CN1.A5"
+					( objectStatus "a5" )
+				)
+				( pin "CN1.A6"
+					( objectStatus "a6" )
+				)
+				( pin "CN1.A7"
+					( objectStatus "a7" )
+				)
+				( pin "CN1.A8"
+					( objectStatus "a8" )
+				)
+				( pin "CN1.A9"
+					( objectStatus "a9" )
+				)
+				( pin "CN1.A10"
+					( objectStatus "a10" )
+				)
+				( pin "CN1.A11"
+					( objectStatus "a11" )
+				)
+				( pin "CN1.A12"
+					( objectStatus "a12" )
+				)
+				( pin "CN1.B1"
+					( objectStatus "b1" )
+				)
+				( pin "CN1.B2"
+					( objectStatus "b2" )
+				)
+				( pin "CN1.B3"
+					( objectStatus "b3" )
+				)
+				( pin "CN1.B4"
+					( objectStatus "b4" )
+				)
+				( pin "CN1.B5"
+					( objectStatus "b5" )
+				)
+				( pin "CN1.B6"
+					( objectStatus "b6" )
+				)
+				( pin "CN1.B7"
+					( objectStatus "b7" )
+				)
+				( pin "CN1.B8"
+					( objectStatus "b8" )
+				)
+				( pin "CN1.B9"
+					( objectStatus "b9" )
+				)
+				( pin "CN1.B10"
+					( objectStatus "b10" )
+				)
+				( pin "CN1.B11"
+					( objectStatus "b11" )
+				)
+				( pin "CN1.B12"
+					( objectStatus "b12" )
+				)
+			)
+			( gate "CN1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i96" )
+				( pin "CN1.SHIELD_1"
+					( objectStatus "shield_1" )
+				)
+				( pin "CN1.SHIELD_2"
+					( objectStatus "shield_2" )
+				)
+				( pin "CN1.SHIELD_3"
+					( objectStatus "shield_3" )
+				)
+				( pin "CN1.SHIELD_4"
+					( objectStatus "shield_4" )
+				)
+				( pin "CN1.SHIELD_5"
+					( objectStatus "shield_5" )
+				)
+				( pin "CN1.SHIELD_6"
+					( objectStatus "shield_6" )
+				)
+				( pin "CN1.SHIELD_7"
+					( objectStatus "shield_7" )
+				)
+				( pin "CN1.SHIELD_8"
+					( objectStatus "shield_8" )
+				)
+			)
+			( gate "R14"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i102" )
+				( pin "R14.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R14.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R32"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i104" )
+				( pin "R32.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R32.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U22"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i113" )
+				( pin "U22.B2"
+					( objectStatus "gnd1" )
+				)
+				( pin "U22.A2"
+					( objectStatus "\in\" )
+				)
+				( pin "U22.A1"
+					( objectStatus "\out\" )
+				)
+				( pin "U22.B1"
+					( objectStatus "vcc" )
+				)
+			)
+			( gate "U24"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i115" )
+				( pin "U24.2"
+					( objectStatus "\/flag\" )
+				)
+				( pin "U24.4"
+					( objectStatus "gnd" )
+				)
+				( pin "U24.1"
+					( objectStatus "in_1" )
+				)
+				( pin "U24.10"
+					( objectStatus "in_2" )
+				)
+				( pin "U24.6"
+					( objectStatus "nc_1" )
+				)
+				( pin "U24.9"
+					( objectStatus "nc_2" )
+				)
+				( pin "U24.3"
+					( objectStatus "\on\" )
+				)
+				( pin "U24.7"
+					( objectStatus "out_1" )
+				)
+				( pin "U24.8"
+					( objectStatus "out_2" )
+				)
+				( pin "U24.5"
+					( objectStatus "seti" )
+				)
+			)
+			( gate "U18"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i122" )
+				( pin "U18.2"
+					( objectStatus "com1" )
+				)
+				( pin "U18.6"
+					( objectStatus "com2" )
+				)
+				( pin "U18.4"
+					( objectStatus "gnd" )
+				)
+				( pin "U18.7"
+					( objectStatus "in1" )
+				)
+				( pin "U18.3"
+					( objectStatus "in2" )
+				)
+				( pin "U18.1"
+					( objectStatus "no1" )
+				)
+				( pin "U18.5"
+					( objectStatus "no2" )
+				)
+				( pin "U18.8"
+					( objectStatus "\v+\" )
+				)
+			)
+			( gate "R42"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i125" )
+				( pin "R42.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R42.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R39"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i128" )
+				( pin "R39.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R39.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R41"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i129" )
+				( pin "R41.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R41.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U23"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i130" )
+				( pin "U23.2"
+					( objectStatus "com1" )
+				)
+				( pin "U23.6"
+					( objectStatus "com2" )
+				)
+				( pin "U23.4"
+					( objectStatus "gnd" )
+				)
+				( pin "U23.7"
+					( objectStatus "in1" )
+				)
+				( pin "U23.3"
+					( objectStatus "in2" )
+				)
+				( pin "U23.1"
+					( objectStatus "no1" )
+				)
+				( pin "U23.5"
+					( objectStatus "no2" )
+				)
+				( pin "U23.8"
+					( objectStatus "\v+\" )
+				)
+			)
+			( gate "Q5"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i131" )
+				( pin "Q5.6"
+					( objectStatus "\d1-1\" )
+				)
+				( pin "Q5.7"
+					( objectStatus "\d1-2\" )
+				)
+				( pin "Q5.3"
+					( objectStatus "\d2-1\" )
+				)
+				( pin "Q5.8"
+					( objectStatus "\d2-2\" )
+				)
+				( pin "Q5.2"
+					( objectStatus "g1" )
+				)
+				( pin "Q5.5"
+					( objectStatus "g2" )
+				)
+				( pin "Q5.1"
+					( objectStatus "s1" )
+				)
+				( pin "Q5.4"
+					( objectStatus "s2" )
+				)
+			)
+			( gate "R37"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i133" )
+				( pin "R37.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R37.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R40"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i136" )
+				( pin "R40.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R40.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C56"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i137" )
+				( pin "C56.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C56.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C54"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i140" )
+				( pin "C54.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C54.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C33"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i144" )
+				( pin "C33.1"
+					( objectStatus "a" )
+				)
+				( pin "C33.2"
+					( objectStatus "b" )
+				)
+			)
+			( gate "C38"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i145" )
+				( pin "C38.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C38.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C42"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i147" )
+				( pin "C42.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C42.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "TP24"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i149" )
+				( pin "TP24.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "U25"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i150" )
+				( pin "U25.B2"
+					( objectStatus "gnd1" )
+				)
+				( pin "U25.A2"
+					( objectStatus "\in\" )
+				)
+				( pin "U25.A1"
+					( objectStatus "\out\" )
+				)
+				( pin "U25.B1"
+					( objectStatus "vcc" )
+				)
+			)
+			( gate "B1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i151" )
+				( pin "B1.1"
+					( objectStatus "\1\" )
+				)
+				( pin "B1.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U26"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i154" )
+				( pin "U26.3"
+					( objectStatus "a" )
+				)
+				( pin "U26.1"
+					( objectStatus "b" )
+				)
+				( pin "U26.6"
+					( objectStatus "c" )
+				)
+				( pin "U26.2"
+					( objectStatus "gnd" )
+				)
+				( pin "U26.5"
+					( objectStatus "vcc" )
+				)
+				( pin "U26.4"
+					( objectStatus "y" )
+				)
+			)
+			( gate "U20"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i155" )
+				( pin "U20.3"
+					( objectStatus "a" )
+				)
+				( pin "U20.1"
+					( objectStatus "b" )
+				)
+				( pin "U20.6"
+					( objectStatus "c" )
+				)
+				( pin "U20.2"
+					( objectStatus "gnd" )
+				)
+				( pin "U20.5"
+					( objectStatus "vcc" )
+				)
+				( pin "U20.4"
+					( objectStatus "y" )
+				)
+			)
+			( gate "U21"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i156" )
+				( pin "U21.3"
+					( objectStatus "a" )
+				)
+				( pin "U21.1"
+					( objectStatus "b" )
+				)
+				( pin "U21.6"
+					( objectStatus "c" )
+				)
+				( pin "U21.2"
+					( objectStatus "gnd" )
+				)
+				( pin "U21.5"
+					( objectStatus "vcc" )
+				)
+				( pin "U21.4"
+					( objectStatus "y" )
+				)
+			)
+			( gate "U16"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i157" )
+				( pin "U16.3"
+					( objectStatus "a" )
+				)
+				( pin "U16.1"
+					( objectStatus "b" )
+				)
+				( pin "U16.6"
+					( objectStatus "c" )
+				)
+				( pin "U16.2"
+					( objectStatus "gnd" )
+				)
+				( pin "U16.5"
+					( objectStatus "vcc" )
+				)
+				( pin "U16.4"
+					( objectStatus "y" )
+				)
+			)
+			( gate "U19"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i160" )
+				( pin "U19.A1"
+					( objectStatus "gnd" )
+				)
+				( pin "U19.B1"
+					( objectStatus "\i/o_1\" )
+				)
+				( pin "U19.C1"
+					( objectStatus "\i/o_2\" )
+				)
+				( pin "U19.C2"
+					( objectStatus "\i/o_3\" )
+				)
+				( pin "U19.B3"
+					( objectStatus "\i/o_4\" )
+				)
+				( pin "U19.A3"
+					( objectStatus "\i/o_5\" )
+				)
+				( pin "U19.A2"
+					( objectStatus "\i/o_6\" )
+				)
+				( pin "U19.B2"
+					( objectStatus "nc1" )
+				)
+				( pin "U19.C3"
+					( objectStatus "vcc" )
+				)
+			)
+			( gate "U15"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i161" )
+				( pin "U15.A1"
+					( objectStatus "gnd" )
+				)
+				( pin "U15.B1"
+					( objectStatus "\i/o_1\" )
+				)
+				( pin "U15.C1"
+					( objectStatus "\i/o_2\" )
+				)
+				( pin "U15.C2"
+					( objectStatus "\i/o_3\" )
+				)
+				( pin "U15.B3"
+					( objectStatus "\i/o_4\" )
+				)
+				( pin "U15.A3"
+					( objectStatus "\i/o_5\" )
+				)
+				( pin "U15.A2"
+					( objectStatus "\i/o_6\" )
+				)
+				( pin "U15.B2"
+					( objectStatus "nc1" )
+				)
+				( pin "U15.C3"
+					( objectStatus "vcc" )
+				)
+			)
+			( gate "C50"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i164" )
+				( pin "C50.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C50.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C62"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i166" )
+				( pin "C62.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C62.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "L1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i168" )
+				( pin "L1.1"
+					( objectStatus "\1\" )
+				)
+				( pin "L1.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "XU1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i1" )
+				( pin "XU1.B9"
+					( objectStatus "\32kin\" )
+				)
+				( pin "XU1.C9"
+					( objectStatus "\32kout\" )
+				)
+				( pin "XU1.A4"
+					( objectStatus "ain0" )
+				)
+				( pin "XU1.A5"
+					( objectStatus "ain1" )
+				)
+				( pin "XU1.A6"
+					( objectStatus "ain2" )
+				)
+				( pin "XU1.A7"
+					( objectStatus "ain3" )
+				)
+				( pin "XU1.F8"
+					( objectStatus "dm" )
+				)
+				( pin "XU1.E8"
+					( objectStatus "dp" )
+				)
+				( pin "XU1.A1"
+					( objectStatus "nc1" )
+				)
+				( pin "XU1.A9"
+					( objectStatus "nc2" )
+				)
+				( pin "XU1.J1"
+					( objectStatus "nc3" )
+				)
+				( pin "XU1.J9"
+					( objectStatus "nc4" )
+				)
+				( pin "XU1.C2"
+					( objectStatus "p0_0" )
+				)
+				( pin "XU1.C1"
+					( objectStatus "p0_1" )
+				)
+				( pin "XU1.D4"
+					( objectStatus "p0_2" )
+				)
+				( pin "XU1.D3"
+					( objectStatus "p0_3" )
+				)
+				( pin "XU1.D1"
+					( objectStatus "p0_4" )
+				)
+				( pin "XU1.D2"
+					( objectStatus "p0_5" )
+				)
+				( pin "XU1.E3"
+					( objectStatus "p0_6" )
+				)
+				( pin "XU1.E2"
+					( objectStatus "p0_7" )
+				)
+				( pin "XU1.E1"
+					( objectStatus "p1_0" )
+				)
+				( pin "XU1.E4"
+					( objectStatus "p1_1" )
+				)
+				( pin "XU1.F3"
+					( objectStatus "p1_2" )
+				)
+				( pin "XU1.F2"
+					( objectStatus "p1_3" )
+				)
+				( pin "XU1.F4"
+					( objectStatus "p1_4" )
+				)
+				( pin "XU1.E5"
+					( objectStatus "p1_5" )
+				)
+				( pin "XU1.G2"
+					( objectStatus "p1_6" )
+				)
+				( pin "XU1.G3"
+					( objectStatus "p1_7" )
+				)
+				( pin "XU1.J2"
+					( objectStatus "p2_0" )
+				)
+				( pin "XU1.H2"
+					( objectStatus "p2_1" )
+				)
+				( pin "XU1.H3"
+					( objectStatus "p2_2" )
+				)
+				( pin "XU1.J3"
+					( objectStatus "p2_3" )
+				)
+				( pin "XU1.G4"
+					( objectStatus "p2_4" )
+				)
+				( pin "XU1.H4"
+					( objectStatus "p2_5" )
+				)
+				( pin "XU1.G5"
+					( objectStatus "p2_6" )
+				)
+				( pin "XU1.H5"
+					( objectStatus "p2_7" )
+				)
+				( pin "XU1.F5"
+					( objectStatus "p3_0" )
+				)
+				( pin "XU1.E6"
+					( objectStatus "p3_1" )
+				)
+				( pin "XU1.H6"
+					( objectStatus "p3_2" )
+				)
+				( pin "XU1.J6"
+					( objectStatus "p3_3" )
+				)
+				( pin "XU1.G6"
+					( objectStatus "p3_4" )
+				)
+				( pin "XU1.F6"
+					( objectStatus "p3_5" )
+				)
+				( pin "XU1.J7"
+					( objectStatus "p3_6" )
+				)
+				( pin "XU1.F7"
+					( objectStatus "p3_7" )
+				)
+				( pin "XU1.J8"
+					( objectStatus "p4_0" )
+				)
+				( pin "XU1.H7"
+					( objectStatus "p4_1" )
+				)
+				( pin "XU1.H9"
+					( objectStatus "p4_2" )
+				)
+				( pin "XU1.H8"
+					( objectStatus "p4_3" )
+				)
+				( pin "XU1.G7"
+					( objectStatus "p4_4" )
+				)
+				( pin "XU1.G9"
+					( objectStatus "p4_5" )
+				)
+				( pin "XU1.G8"
+					( objectStatus "p4_6" )
+				)
+				( pin "XU1.F9"
+					( objectStatus "p4_7" )
+				)
+				( pin "XU1.D7"
+					( objectStatus "p5_0" )
+				)
+				( pin "XU1.E7"
+					( objectStatus "p5_1" )
+				)
+				( pin "XU1.C7"
+					( objectStatus "p5_2" )
+				)
+				( pin "XU1.D6"
+					( objectStatus "p5_3" )
+				)
+				( pin "XU1.C6"
+					( objectStatus "p5_4" )
+				)
+				( pin "XU1.C5"
+					( objectStatus "p5_5" )
+				)
+				( pin "XU1.D5"
+					( objectStatus "p5_6" )
+				)
+				( pin "XU1.C4"
+					( objectStatus "p5_7" )
+				)
+				( pin "XU1.C3"
+					( objectStatus "p6_0" )
+				)
+				( pin "XU1.B2"
+					( objectStatus "rstn" )
+				)
+				( pin "XU1.B1"
+					( objectStatus "srstn" )
+				)
+				( pin "XU1.B4"
+					( objectStatus "tck" )
+				)
+				( pin "XU1.B7"
+					( objectStatus "tdi" )
+				)
+				( pin "XU1.B6"
+					( objectStatus "tdo" )
+				)
+				( pin "XU1.B5"
+					( objectStatus "tms" )
+				)
+				( pin "XU1.F1"
+					( objectStatus "vdd12" )
+				)
+				( pin "XU1.A8"
+					( objectStatus "vdd18_1" )
+				)
+				( pin "XU1.E9"
+					( objectStatus "vdd18_2" )
+				)
+				( pin "XU1.H1"
+					( objectStatus "vdd18_3" )
+				)
+				( pin "XU1.J4"
+					( objectStatus "vdd18_4" )
+				)
+				( pin "XU1.B3"
+					( objectStatus "vdda" )
+				)
+				( pin "XU1.D8"
+					( objectStatus "vddb" )
+				)
+				( pin "XU1.A3"
+					( objectStatus "vref" )
+				)
+				( pin "XU1.C8"
+					( objectStatus "vrtc" )
+				)
+				( pin "XU1.B8"
+					( objectStatus "vss_1" )
+				)
+				( pin "XU1.D9"
+					( objectStatus "vss_2" )
+				)
+				( pin "XU1.G1"
+					( objectStatus "vss_3" )
+				)
+				( pin "XU1.J5"
+					( objectStatus "vss_4" )
+				)
+				( pin "XU1.A2"
+					( objectStatus "vssa" )
+				)
+			)
+			( gate "Y2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i4" )
+				( pin "Y2.1"
+					( objectStatus "p1" )
+				)
+				( pin "Y2.2"
+					( objectStatus "p2" )
+				)
+			)
+			( gate "C59"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i60" )
+				( pin "C59.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C59.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C58"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i62" )
+				( pin "C58.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C58.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C24"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i64" )
+				( pin "C24.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C24.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C61"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i67" )
+				( pin "C61.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C61.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C23"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i76" )
+				( pin "C23.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C23.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R18"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i156" )
+				( pin "R18.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R18.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "TP23"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i168" )
+				( pin "TP23.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP18"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i169" )
+				( pin "TP18.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP25"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i170" )
+				( pin "TP25.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP16"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i171" )
+				( pin "TP16.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP14"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i172" )
+				( pin "TP14.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP13"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i173" )
+				( pin "TP13.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP12"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i174" )
+				( pin "TP12.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP10"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i175" )
+				( pin "TP10.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP11"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i177" )
+				( pin "TP11.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP17"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i178" )
+				( pin "TP17.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP20"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i179" )
+				( pin "TP20.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP21"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i180" )
+				( pin "TP21.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP15"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i181" )
+				( pin "TP15.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP30"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i183" )
+				( pin "TP30.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP19"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i184" )
+				( pin "TP19.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "C57"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i189" )
+				( pin "C57.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C57.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "TP33"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i195" )
+				( pin "TP33.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP26"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i197" )
+				( pin "TP26.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP27"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i201" )
+				( pin "TP27.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP28"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i202" )
+				( pin "TP28.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "R1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i65" )
+				( pin "R1.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R1.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R23"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i207" )
+				( pin "R23.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R23.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R28"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i209" )
+				( pin "R28.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R28.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "Q2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i210" )
+				( pin "Q2.6"
+					( objectStatus "\d1-1\" )
+				)
+				( pin "Q2.7"
+					( objectStatus "\d1-2\" )
+				)
+				( pin "Q2.3"
+					( objectStatus "\d2-1\" )
+				)
+				( pin "Q2.8"
+					( objectStatus "\d2-2\" )
+				)
+				( pin "Q2.2"
+					( objectStatus "g1" )
+				)
+				( pin "Q2.5"
+					( objectStatus "g2" )
+				)
+				( pin "Q2.1"
+					( objectStatus "s1" )
+				)
+				( pin "Q2.4"
+					( objectStatus "s2" )
+				)
+			)
+			( gate "R25"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i211" )
+				( pin "R25.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R25.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "DS1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i212" )
+				( pin "DS1.A"
+					( objectStatus "a" )
+				)
+				( pin "DS1.C"
+					( objectStatus "b" )
+				)
+			)
+			( gate "TP22"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i216" )
+				( pin "TP22.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP31"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i217" )
+				( pin "TP31.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP29"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i218" )
+				( pin "TP29.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "C60"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i219" )
+				( pin "C60.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C60.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U27"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i220" )
+				( pin "U27.1"
+					( objectStatus "\cs#\" )
+				)
+				( pin "U27.9"
+					( objectStatus "ep" )
+				)
+				( pin "U27.7"
+					( objectStatus "\io3/reset#\" )
+				)
+				( pin "U27.6"
+					( objectStatus "sck" )
+				)
+				( pin "U27.5"
+					( objectStatus "\si/io0\" )
+				)
+				( pin "U27.2"
+					( objectStatus "\so/io1\" )
+				)
+				( pin "U27.8"
+					( objectStatus "vdd" )
+				)
+				( pin "U27.4"
+					( objectStatus "vss" )
+				)
+				( pin "U27.3"
+					( objectStatus "\wp#/io2\" )
+				)
+			)
+			( gate "TP1"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i221" )
+				( pin "TP1.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "TP2"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i222" )
+				( pin "TP2.1"
+					( objectStatus "tp1" )
+				)
+			)
+			( gate "R3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i90" )
+				( pin "R3.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R3.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R4"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i89" )
+				( pin "R4.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R4.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C63"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i132" )
+				( pin "C63.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C63.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U3"
+				( objectStatus "@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i20" )
+				( pin "U3.3"
+					( objectStatus "agnd_1" )
+				)
+				( pin "U3.8"
+					( objectStatus "agnd_2" )
+				)
+				( pin "U3.28"
+					( objectStatus "agnd_3" )
+				)
+				( pin "U3.24"
+					( objectStatus "\aout/atbp\" )
+				)
+				( pin "U3.22"
+					( objectStatus "avdd" )
+				)
+				( pin "U3.4"
+					( objectStatus "bin" )
+				)
+				( pin "U3.5"
+					( objectStatus "bip" )
+				)
+				( pin "U3.10"
+					( objectStatus "capn" )
+				)
+				( pin "U3.9"
+					( objectStatus "capp" )
+				)
+				( pin "U3.11"
+					( objectStatus "cpll" )
+				)
+				( pin "U3.15"
+					( objectStatus "csb" )
+				)
+				( pin "U3.12"
+					( objectStatus "dgnd" )
+				)
+				( pin "U3.2"
+					( objectStatus "drvn" )
+				)
+				( pin "U3.1"
+					( objectStatus "drvp" )
+				)
+				( pin "U3.13"
+					( objectStatus "dvdd" )
+				)
+				( pin "U3.7"
+					( objectStatus "ecgn" )
+				)
+				( pin "U3.6"
+					( objectStatus "ecgp" )
+				)
+				( pin "U3.29"
+					( objectStatus "ep" )
+				)
+				( pin "U3.14"
+					( objectStatus "fclk" )
+				)
+				( pin "U3.20"
+					( objectStatus "int2b" )
+				)
+				( pin "U3.21"
+					( objectStatus "intb" )
+				)
+				( pin "U3.19"
+					( objectStatus "ovdd" )
+				)
+				( pin "U3.26"
+					( objectStatus "\rbias/atbm\" )
+				)
+				( pin "U3.16"
+					( objectStatus "sclk" )
+				)
+				( pin "U3.17"
+					( objectStatus "sdi" )
+				)
+				( pin "U3.18"
+					( objectStatus "sdo" )
+				)
+				( pin "U3.27"
+					( objectStatus "vbg" )
+				)
+				( pin "U3.25"
+					( objectStatus "vcm" )
+				)
+				( pin "U3.23"
+					( objectStatus "vref" )
+				)
+			)
+			( region "WLP1"
+				( attribute "MIN_LINE_WIDTH" "3.00"
+					( Origin gBackEnd )
+				)
+				( attribute "VIA_LIST" "V10H5,BB10H5L4,BB10H5L3"
+					( Origin gBackEnd )
+				)
+				( attribute "MIN_BVIA_STAGGER" "0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MAX_BVIA_STAGGER" "0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_THRUPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_SMDPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTPIN_TO_THRUPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_THRUVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTVIA_TO_THRUPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_THRUPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_BONDPAD_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_THRUPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_SHAPE_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_SMDPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_TESTPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_THRUVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_TESTVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_SMDPIN_SPACING" "0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_BONDPAD_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_SMDPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_SMDPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTPIN_TO_TESTPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTPIN_TO_THRUVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTPIN_TO_TESTVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_TESTPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_TESTPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_TESTPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_TESTPIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUVIA_TO_THRUVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTVIA_TO_THRUVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_THRUVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_THRUVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_THRUVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_THRUVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTVIA_TO_TESTVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_TESTVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_TESTVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_TESTVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_TESTVIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_BBV_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_BBV_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_LINE_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_SHAPE_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_LINE_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_SHAPE_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_LINE_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_SHAPE_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_SHAPE_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_PIN_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_VIA_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_LINE_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_SHAPE_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_HOLE_SPACING" "4.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MIN_BVIA_GAP" "4.00"
+					( Origin gBackEnd )
+				)
+				( objectStatus "@hsensor_platform_evkit_p1.hsensor_platform_evkit_p1(sch_1):\WLP1\" )
+			)
+		)
+	)
+)

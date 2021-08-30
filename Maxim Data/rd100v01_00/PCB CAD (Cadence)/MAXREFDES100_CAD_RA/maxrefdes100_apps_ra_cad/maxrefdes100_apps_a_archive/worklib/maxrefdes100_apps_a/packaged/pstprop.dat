@@ -1,0 +1,7 @@
+
+Logical and Physical Net Conflicts 
+----------------------------------
+
+DRAWING = @MAXREFDES100_APPS_A.MAXREFDES100_APPS_A(SCH_1)
+NET_NAME = VBAT|3V3
+   PNN = VBAT3V3

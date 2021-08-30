@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LSM6DS3'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'            |'VALUE'    |'MAXINV'            = 'MFG_PART_NUMBER'    |'MANUFACTURER'         |'TOLERANCE'  |'DESCRIPTION'                                                                           |'VOLTAGE_RATING'    |'TEMP_RANGE'              |'BOM'    |'LEAD_LENGTH'    |'STATUS'              |'DATASHEET_URL'                                                                       |'EST_STOCK_STATUS'                |'REFLOW'  |'BEHAVIORAL_MODEL'  |'EST_PRICE'    ;
+{========================================================================================}
+ 'LGA14'      |'PQFN50P300X250X86-14M' |'LSM6DS3'  |'10-LSM6DS3-L' (!)  = 'LSM6DS3'            |'ST MICROELECTRONICS'  |'N/A'        |'IC; INEMO; INEMO INERTIAL MODULE; ALWAYS-ON 3D ACCELEROMETER AND 3D GYROSCOPE; LGA14'  |'+1.71V TO +3.6V'   |'-40 DEGC TO +85 DEGC'    |'Y'      |'N/A'            |'EVKIT-NOT FOR TEST'  |'http://cavwapp018.maxim-ic.com/inv/attachfile/attachfiledialog.php?pn=10-LSM6DS3-L'  |'HQ(0):HBO(0):MPOC(0):DL(0)'  |'-'       |'FALSE'             |'($4.28)'      
+
+END_PART
+
+END.
+
+

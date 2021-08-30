@@ -1,0 +1,2 @@
+SPLBPD-505,Cell 'LIS2DH':For logical part LIS2DH, pack type LGA14 is present in the chips.prt file but missing in the part table file. Add PTF rows for that package to ensure that you can instantiate the package.,Warning
+SPLBPD-506,Cell 'LIS2DH':For logical part LIS2DH, pack type LGA12 is missing in chips.prt but present in the part table file. The default package will be assigned in chips.prt during packaging. If this is not desired, specify the pack type on the General page of the Package Editor.,Warning

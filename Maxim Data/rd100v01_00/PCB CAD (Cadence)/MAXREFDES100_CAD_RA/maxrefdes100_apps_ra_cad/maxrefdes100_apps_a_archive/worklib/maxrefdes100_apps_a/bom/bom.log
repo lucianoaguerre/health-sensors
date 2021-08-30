@@ -1,0 +1,229 @@
+
+
+    Cadence Design Systems, Inc.
+    Bomhdl 16.6-S059 (v16-6-112EZ) 10/6/2015
+    Copyright 2011 Cadence Design Systems, Inc, Cadence Design Systems, Inc.
+
+    Run on Tue Jun 14 06:57:05 2016
+
+
+*****************************
+*  Processing project file  *
+*****************************
+
+    DESIGN_LIBRARY 'maxrefdes100_apps_a'
+    DESIGN_NAME 'maxrefdes100_apps_a'
+    VIEW_SCHEMATIC 'sch_1'
+    VIEW_PACKAGER 'packaged'
+    VIEW_VARIANT 'variant'
+    VIEW_BOM ''
+    VIEW_CONFIG_PHYSICAL 'cfg_package'
+    PPT 'G:\allegrolib\site\..\mml_worklib\mechanical'
+    USE_LIBRARY_PPT 'on'
+    MERGE_PPT 'on'
+    INCLUDE_PPT ''
+    EXCLUDE_PPT ''
+    SPREADSHEET 'on'
+    LAST_OUTPUT_FILE './BOM.rpt'
+    TEMPLATE_FILE 'template.bom'
+    LAST_TEMPLATE_FILE 'G:\allegrolib\site\cdssetup\bom_templates\buy_template.bom'
+    USE_FILTERS '1'
+    LAST_SS_DELIMITER 'Comma ,'
+
+*********************************
+*  End processing project file  *
+*********************************
+
+Initializing tool communication modules... 
+Checking the presence of variant and BOM view. 
+Set the DDBPI message handlers and Tool start time. 
+Initialize jlg string table. 
+
+*********************************
+*  Loading the design database  *
+*********************************
+
+Start loading the design. 
+Loading logical design view of maxrefdes100_apps_a 
+Setting design view directives...
+ 
+Loading pstX files...
+ 
+
+Loading... G:\ALLEGRO_PROJECT\maxrefdes100_apps\reva\worklib\maxrefdes100_apps_a\packaged\pstchip.dat
+ 
+
+Loading... G:\ALLEGRO_PROJECT\maxrefdes100_apps\reva\worklib\maxrefdes100_apps_a\packaged\pstxprt.dat
+ 
+
+Loading... G:\ALLEGRO_PROJECT\maxrefdes100_apps\reva\worklib\maxrefdes100_apps_a\packaged\pstxnet.dat
+ 
+packaging the design view... 
+End loading logical design view of maxrefdes100_apps_a 
+Reading cell level PPTs... 
+INFO(SPCODD-181): Loading G:/allegrolib/site/../mml_worklib/mechanical/mech.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/evk_worklib/evkit_tp/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/0201_SMD_CAP.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/0402_SMD_CAP.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/0508_SMD_CAP.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/0603_SMD_CAP.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/0805_SMD_CAP.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/1206_SMD_CAP.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/1210_SMD_CAP.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/TH_CAPS.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_4p/part_table/CAP_4P.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES_0201.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES_0402.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES_0603.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES_0805.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES_1206.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES_1210.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES_2512.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/evk_worklib/ek_max30033/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/evk_worklib/ek_max30003/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/2450at42b100e/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/evk_worklib/generic_packages/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/induct/part_table/INDUCT.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/induct/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/balun/part_table/balun.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/74c2t45/part_table/74c2t45.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/em9301/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/sn74avc4t234/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/xtal/part_table/XTAL.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/battery_holder/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_pol/part_table/CAP_POL.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/898#2dxx#2dxxx#2d90#2d310000/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/fdfme2p823zt/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/tran_dch_8p/part_table/tran_dch_8p.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/evp#2daaxxxx/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max8881/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max14720/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max3205/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/741g97/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max4741/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max9064/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max4995/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/tran_nch_3p/part_table/NCH_3P.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max30205/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/bmp280/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max8880/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/lsm6ds3/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/lis2dh/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max30101/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/led/part_table/LED.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/s25fs256s/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max32620/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading G:/allegrolib/evk_worklib/ev_kit_box/part_table/part.ptf.
+ 
+Start loading variant databse... 
+Setting design view directives...
+ 
+Loading variant data base G:\ALLEGRO_PROJECT\maxrefdes100_apps\reva\worklib\maxrefdes100_apps_a\variant\variant.dat 
+
+Loading... G:\ALLEGRO_PROJECT\maxrefdes100_apps\reva\worklib\maxrefdes100_apps_a\packaged\pstchip.dat
+ 
+
+Loading... G:\ALLEGRO_PROJECT\maxrefdes100_apps\reva\worklib\maxrefdes100_apps_a\variant\variant.dat
+ 
+Error #53:  ERROR(SPCODD-53): Packaging cannot be completed because packaging has encountered a null object ID. The design may not have been saved correctly. Save the design before packaging.
+
+ 
+ERROR(SPCODD-416): 
+			Error at line 1358 in file G:\ALLEGRO_PROJECT\maxrefdes100_apps\reva\worklib\maxrefdes100_apps_a\variant\variant.dat. Unable to load physical part: EK_MAX30001_TQFN28-EP-QFN50P500X500X80-29BM,MAX30001,N/A-MAX30001,QFN50P500X500X80-29BM with reference designator: U3. Part not found in the design.
+ 
+
+ 
+Error #369:  ERROR(SPCODD-369): Unable to load physical part EK_MAX30001_TQFN28-EP-QFN50P500X500X80-29BM,MAX30001,N/A-MAX30001,QFN50P500X500X80-29BM with reference designator U3. Part not found in the design.
+
+ 
+End loading variant database of G:\ALLEGRO_PROJECT\maxrefdes100_apps\reva\worklib\maxrefdes100_apps_a\variant\variant.dat 
+Start Merging the variant database in main design view.
+ 
+Variant Database merged successfully.
+ 
+Design loaded successfully. 
+
+
+******************************************
+*  Finished loading the design database  *
+******************************************
+
+
+**********************************
+*  Start generating bom reports. *
+**********************************
+
+Report generated successfully.
+
+Output file list :
+G:\ALLEGRO_PROJECT\maxrefdes100_apps\reva\build_bom_maxrefdes100_apps_a.csv
+ 
+
+*********************************
+*  End generating bom reports   *
+*********************************
+
+    Start time    6:57:05
+    End time      6:57:07
+    Elapsed time  0:00:02
+
+*********************************
+*  BOM-HDL execution done.      *
+*********************************
+

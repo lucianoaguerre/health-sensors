@@ -1,0 +1,14 @@
+	(Comment
+		(Time 02/26/15,10:28:36)
+		(User Jayson.Navarro)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 "sym_2")
+	)
+	(Comment
+		(Time 02/26/15,10:38:09)
+		(User Jayson.Navarro)
+		(MsgId ECO_211)
+		(Text "PTF file part.ptf added")
+		(Param1 "part.ptf")
+	)

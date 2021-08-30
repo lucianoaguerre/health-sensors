@@ -1,0 +1,388 @@
+(Cell	max32620
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.30)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/18/15,17:22:01)
+
+			(User	Jayson.Navarro)
+
+			(Path	jaysonlib_lib.max32620)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/02/15,05:30:31)
+
+			(User	Joseph.Duran)
+
+			(Path	jos_mml_project_lib.max32620)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.19)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	02/18/15,17:22:01)
+
+					(User	Jayson.Navarro)
+
+					(Path	jaysonlib_lib.max32620)
+
+				)
+
+			)
+
+			(Symbols	4
+
+				(Symbol	sym_4
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001ce7dcce)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/02/15,05:24:32)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.max32620)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000cc24e720)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/02/15,05:15:39)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.max32620)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000063262b75)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/20/15,12:58:24)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.max32620)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000043f03bdc)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.10)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/18/15,17:22:01)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.max32620)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ad6037d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000efb7a0c0)
+
+			(Primitives	2
+
+				(Primitive	MAX32620_WLP81
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/18/15,17:22:01)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.max32620)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX32620
+
+							(PackType	MAX32620_WLP81)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BGA81C40P9X9_387X387X69M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	MAX32620_TQFP100-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/02/15,04:36:14)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.max32620)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX32620
+
+							(PackType	MAX32620_TQFP100-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QFP50P1600X1600X120-101M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2e03db)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cbc03d6)
+
+)
+

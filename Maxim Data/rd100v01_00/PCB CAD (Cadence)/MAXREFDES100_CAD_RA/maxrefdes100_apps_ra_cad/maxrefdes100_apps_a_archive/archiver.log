@@ -1,0 +1,95 @@
+@@(#)$CDS: Archiver version 16.6-S058 (v16-6-112EW) 9/21/2015
+Archiving cellview G:\ALLEGRO_PROJECT\maxrefdes100_apps\reva\worklib\maxrefdes100_apps_a, from library maxrefdes100_apps_a
+
+Archiving cellview G:\allegrolib\mml_worklib\cap_4p, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\cap_np, from library mml
+
+Archiving cellview G:\allegrolib\evk_worklib\evkit_tp, from library evkit_noncompliant
+
+Archiving cellview G:\allegrolib\mml_worklib\res_smd, from library mml
+
+Archiving cellview G:\allegrolib\evk_worklib\ek_max30033, from library evkit_noncompliant
+
+Archiving cellview G:\allegrolib\evk_worklib\ek_max30003, from library evkit_noncompliant
+
+Archiving cellview G:\allegrolib\mml_worklib\max30101, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\lis2dh, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\bmp280, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\lsm6ds3, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\tran_nch_3p, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\max30205, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\max8880, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\max14720, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\max9064, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\max4995, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\max4741, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\tran_dch_8p, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\cap_pol, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\battery_holder, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\741g97, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\max3205, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\induct, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\fdfme2p823zt, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\max8881, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\evp#2daaxxxx, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\898#2dxx#2dxxx#2d90#2d310000, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\max32620, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\led, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\s25fs256s, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\xtal, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\balun, from library mml
+
+Archiving cellview G:\allegrolib\evk_worklib\generic_packages, from library evkit_noncompliant
+
+Archiving cellview G:\allegrolib\mml_worklib\2450at42b100e, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\em9301, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\sn74avc4t234, from library mml
+
+Archiving cellview G:\allegrolib\mml_worklib\74c2t45, from library mml
+
+Archiving cellview G:\allegrolib\evk_worklib\ev_kit_box, from library evkit_noncompliant
+
+Archiving cellview G:\allegrolib\mml_worklib\maxim#20b#20size#20page, from library mml
+
+Archiving cellview C:\Cadence\SPB_16.6\share\library\standard\origin, from library standard
+
+Archiving cellview C:\Cadence\SPB_16.6\share\library\standard\offpage, from library standard
+
+Archiving cellview G:\allegrolib\mml_worklib\maxim#20c#20size#20page#202, from library mml
+
+Archiving cellview C:\Cadence\SPB_16.6\share\library\standard\pground, from library standard
+
+Archiving cellview C:\Cadence\SPB_16.6\share\library\standard\supply_1, from library standard
+
+Archiving cellview G:\allegrolib\mml_worklib\maxim#20b#20size#20page#202, from library mml
+
+Completed archiving the design...
+For more information, please look at the file G:\ALLEGRO_PROJECT\maxrefdes100_apps\reva\maxrefdes100_apps_a_archive\archiver.log

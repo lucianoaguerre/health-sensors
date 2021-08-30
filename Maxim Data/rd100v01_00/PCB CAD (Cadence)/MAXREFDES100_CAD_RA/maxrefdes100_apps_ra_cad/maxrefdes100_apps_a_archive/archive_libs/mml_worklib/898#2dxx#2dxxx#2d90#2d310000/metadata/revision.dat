@@ -1,0 +1,356 @@
+(Cell	898-XX-XXX-90-310000
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.28)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/11/15,12:47:50)
+
+			(User	Joseph.Duran)
+
+			(Path	jos_mml_project_lib.898-XX-XXX-90-310000)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/11/15,13:10:41)
+
+			(User	Joseph.Duran)
+
+			(Path	jos_mml_project_lib.898-XX-XXX-90-310000)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.13)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	05/11/15,12:47:50)
+
+					(User	Joseph.Duran)
+
+					(Path	jos_mml_project_lib.898-XX-XXX-90-310000)
+
+				)
+
+			)
+
+			(Symbols	3
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008d9ebaac)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/11/15,12:54:58)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.898-XX-XXX-90-310000)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e3f94c88)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/11/15,12:47:50)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.898-XX-XXX-90-310000)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000be4c3954)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/11/15,12:47:50)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.898-XX-XXX-90-310000)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ca60388)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004f467d06)
+
+			(Primitives	2
+
+				(Primitive	898-XX-XXX-90-310000_SIZEABLE_RA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/11/15,12:47:50)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.898-XX-XXX-90-310000)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	898-XX-XXX-90-310000
+
+							(PackType	898-XX-XXX-90-310000_SIZEABLE_RA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[32]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	MILLMAX_898-43-024-90-310000)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	898-XX-XXX-90-310000_ALLPINS_RA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/11/15,12:52:52)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.898-XX-XXX-90-310000)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	898-XX-XXX-90-310000
+
+							(PackType	898-XX-XXX-90-310000_ALLPINS_RA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	2
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	MILLMAX_898-43-024-90-310000)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dc003e6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S047 (v16-6-112DV))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001caf03a7)
+
+)
+

@@ -1,0 +1,244 @@
+(Cell	2450at42b100e
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.12)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/26/15,10:27:15)
+
+			(User	Jayson.Navarro)
+
+			(Path	jaysonlib_lib.2450at42b100e)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/26/15,10:39:25)
+
+			(User	Jayson.Navarro)
+
+			(Path	jaysonlib_lib.2450at42b100e)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.5)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	02/26/15,10:27:15)
+
+					(User	Jayson.Navarro)
+
+					(Path	jaysonlib_lib.2450at42b100e)
+
+				)
+
+			)
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ccb5afb2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/26/15,10:28:36)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.2450at42b100e)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f75eb412)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/26/15,10:27:15)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.2450at42b100e)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bf2037e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007aa8018d)
+
+			(Primitives	1
+
+				(Primitive	2450AT42B100E_SMD
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/26/15,10:27:15)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.2450at42b100e)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	2450AT42B100E
+
+							(PackType	2450AT42B100E_SMD)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	JOHANSON_2450AT42B100E)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b6e0381)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c3d037b)
+
+)
+

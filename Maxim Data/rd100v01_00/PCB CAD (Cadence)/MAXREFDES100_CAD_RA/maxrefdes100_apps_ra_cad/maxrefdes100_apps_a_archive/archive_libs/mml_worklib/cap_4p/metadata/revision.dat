@@ -1,0 +1,356 @@
+(Cell	CAP_4P
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.20)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/18/09,10:47:26)
+
+			(User	Owen.Tanate)
+
+			(Path	daph_lib.CAP_4P)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/14/13,02:28:00)
+
+			(User	tois)
+
+			(Path	mml.cap_4p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005eebbd4e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.10)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/29/11,12:52:49)
+
+							(User	ryan.cabreza)
+
+							(Path	default_lib.cap_4p)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000df9ad303)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/18/09,10:47:26)
+
+							(User	Owen.Tanate)
+
+							(Path	daph_lib.CAP_4P)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ba10357)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008b78d2c8)
+
+			(Primitives	3
+
+				(Primitive	CAP_4P
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/18/09,10:47:26)
+
+							(User	Owen.Tanate)
+
+							(Path	daph_lib.CAP_4P)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CAP_4P
+
+							(PackType	CAP_4P)
+
+							(PackType	CAP_4P_SMD)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CAP_4PADS)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	CAP_4P_1206
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/29/11,12:57:02)
+
+							(User	ryan.cabreza)
+
+							(Path	default_lib.cap_4p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CAP_4P
+
+							(PackType	CAP_4P_1206)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CAP_1206X18)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	CAP_4P_0603
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/13,02:27:42)
+
+							(User	tois)
+
+							(Path	mml.cap_4p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CAP_4P
+
+							(PackType	CAP_4P_0603)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	cap_0603x14)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c9603b4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S011 (v16-5-13AB))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bc2037d)
+
+)
+

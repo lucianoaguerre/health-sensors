@@ -1,0 +1,1087 @@
+				<schematicsymbol>
+					<schematicsymbolheader>
+						<name>"sym_1"</name>
+						<originalboundingbox>
+							<rectangle>
+								<pt> <x>-150</x> <y>250</y></pt>
+								<pt> <x>150</x> <y>-250</y></pt></rectangle></originalboundingbox>
+					</schematicsymbolheader>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>60</x><y>-89</y></pt>
+								<pt> <x>68</x><y>-93</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>32</x><y>-85</y></pt>
+								<pt> <x>40</x><y>-89</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>50</x><y>-89</y></pt>
+								<pt> <x>50</x><y>-126</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>50</x><y>-89</y></pt>
+								<pt> <x>36</x><y>-69</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>64</x><y>-69</y></pt>
+								<pt> <x>50</x><y>-89</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>40</x><y>-89</y></pt>
+								<pt> <x>60</x><y>-89</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>50</x><y>-25</y></pt>
+								<pt> <x>50</x><y>-69</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>36</x><y>-69</y></pt>
+								<pt> <x>64</x><y>-69</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>50</x><y>-26</y></pt>
+								<pt> <x>-51</x><y>-26</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-51</x><y>-75</y></pt>
+								<pt> <x>-19</x><y>-75</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-51</x><y>-93</y></pt>
+								<pt> <x>-51</x><y>-57</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-19</x><y>-61</y></pt>
+								<pt> <x>-19</x><y>-89</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>0</x><y>-75</y></pt>
+								<pt> <x>-19</x><y>-61</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>0</x><y>-75</y></pt>
+								<pt> <x>-19</x><y>-89</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-51</x><y>-10</y></pt>
+								<pt> <x>-51</x><y>-45</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-65</x><y>-135</y></pt>
+								<pt> <x>-65</x><y>-15</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>50</x><y>-126</y></pt>
+								<pt> <x>-51</x><y>-126</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-51</x><y>-107</y></pt>
+								<pt> <x>-51</x><y>-142</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-45</x><y>-190</y></pt>
+								<pt> <x>-55</x><y>-190</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-100</x><y>-190</y></pt>
+								<pt> <x>-100</x><y>-125</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-25</x><y>-189</y></pt>
+								<pt> <x>0</x><y>-189</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>0</x><y>0</y></pt>
+								<pt> <x>0</x><y>-26</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-75</x><y>-190</y></pt>
+								<pt> <x>-55</x><y>-204</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-55</x><y>-176</y></pt>
+								<pt> <x>-75</x><y>-190</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-55</x><y>-204</y></pt>
+								<pt> <x>-55</x><y>-176</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-74</x><y>-190</y></pt>
+								<pt> <x>-100</x><y>-190</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>0</x><y>-75</y></pt>
+								<pt> <x>0</x><y>-250</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-150</x><y>-125</y></pt>
+								<pt> <x>-65</x><y>-125</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-150</x><y>75</y></pt>
+								<pt> <x>-100</x><y>75</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-150</x><y>150</y></pt>
+								<pt> <x>-13</x><y>150</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>7</x><y>150</y></pt>
+								<pt> <x>75</x><y>150</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-150</x><y>250</y></pt>
+								<pt> <x>150</x><y>250</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>150</x><y>250</y></pt>
+								<pt> <x>150</x><y>-250</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>150</x><y>-250</y></pt>
+								<pt> <x>-150</x><y>-250</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-150</x><y>250</y></pt>
+								<pt> <x>-150</x><y>-250</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-150</x><y>0</y></pt>
+								<pt> <x>0</x><y>0</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-100</x><y>75</y></pt>
+								<pt> <x>-100</x><y>0</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>75</x><y>200</y></pt>
+								<pt> <x>75</x><y>100</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>75</x><y>100</y></pt>
+								<pt> <x>150</x><y>100</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>75</x><y>200</y></pt>
+								<pt> <x>150</x><y>200</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+				 <propertydisplay>
+                <name>$LOCATION</name>
+         		 <value>?</value>
+   			 <justification>1</justification>
+    			 <color>0</color>
+    			 <size>32</size>
+   			 <nv>0</nv>
+   			 <vv>1</vv>
+	    		 <ip>0</ip>
+                <slant>0</slant>
+                <over>0</over>
+                <inv>0</inv>
+                <font>0</font>
+   			 <transform><origin>
+			     <pt>
+				 <x>0</x>
+                <y>375</y>
+                </pt></origin><rotation>0</rotation>
+   			 </transform>
+                </propertydisplay>
+				 <propertydisplay>
+                <name>VALUE</name>
+         		 <value>?</value>
+   			 <justification>1</justification>
+    			 <color>0</color>
+    			 <size>32</size>
+   			 <nv>0</nv>
+   			 <vv>1</vv>
+	    		 <ip>0</ip>
+                <slant>0</slant>
+                <over>0</over>
+                <inv>0</inv>
+                <font>0</font>
+   			 <transform><origin>
+			     <pt>
+				 <x>0</x>
+                <y>300</y>
+                </pt></origin><rotation>0</rotation>
+   			 </transform>
+                </propertydisplay>
+				 <propertydisplay>
+                <name>PACK_TYPE</name>
+         		 <value>?</value>
+   			 <justification>0</justification>
+    			 <color>0</color>
+    			 <size>29</size>
+   			 <nv>0</nv>
+   			 <vv>0</vv>
+	    		 <ip>0</ip>
+                <slant>0</slant>
+                <over>0</over>
+                <inv>0</inv>
+                <font>0</font>
+   			 <transform><origin>
+			     <pt>
+				 <x>0</x>
+                <y>0</y>
+                </pt></origin><rotation>0</rotation>
+   			 </transform>
+                </propertydisplay>
+				 <propertydisplay>
+                <name>JEDEC_TYPE</name>
+         		 <value>?</value>
+   			 <justification>0</justification>
+    			 <color>0</color>
+    			 <size>29</size>
+   			 <nv>0</nv>
+   			 <vv>0</vv>
+	    		 <ip>0</ip>
+                <slant>0</slant>
+                <over>0</over>
+                <inv>0</inv>
+                <font>0</font>
+   			 <transform><origin>
+			     <pt>
+				 <x>0</x>
+                <y>0</y>
+                </pt></origin><rotation>0</rotation>
+   			 </transform>
+                </propertydisplay>
+				 <propertydisplay>
+                <name>MAXINV</name>
+         		 <value>?</value>
+   			 <justification>0</justification>
+    			 <color>0</color>
+    			 <size>29</size>
+   			 <nv>0</nv>
+   			 <vv>0</vv>
+	    		 <ip>0</ip>
+                <slant>0</slant>
+                <over>0</over>
+                <inv>0</inv>
+                <font>0</font>
+   			 <transform><origin>
+			     <pt>
+				 <x>0</x>
+                <y>0</y>
+                </pt></origin><rotation>0</rotation>
+   			 </transform>
+                </propertydisplay>
+				 <propertydisplay>
+                <name>PATH</name>
+         		 <value>?</value>
+   			 <justification>0</justification>
+    			 <color>0</color>
+    			 <size>29</size>
+   			 <nv>0</nv>
+   			 <vv>0</vv>
+	    		 <ip>0</ip>
+                <slant>0</slant>
+                <over>0</over>
+                <inv>0</inv>
+                <font>0</font>
+   			 <transform><origin>
+			     <pt>
+				 <x>0</x>
+                <y>0</y>
+                </pt></origin><rotation>0</rotation>
+   			 </transform>
+                </propertydisplay>
+				<group>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-25</x><y>-179</y></pt>
+								<pt> <x>-19</x><y>-173</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-31</x><y>-205</y></pt>
+								<pt> <x>-25</x><y>-199</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-25</x><y>-189</y></pt>
+								<pt> <x>-45</x><y>-203</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-45</x><y>-175</y></pt>
+								<pt> <x>-25</x><y>-189</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-25</x><y>-199</y></pt>
+								<pt> <x>-25</x><y>-179</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-45</x><y>-203</y></pt>
+								<pt> <x>-45</x><y>-175</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+				</group>
+				<group>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-75</x><y>-180</y></pt>
+								<pt> <x>-69</x><y>-174</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-81</x><y>-206</y></pt>
+								<pt> <x>-75</x><y>-200</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-75</x><y>-200</y></pt>
+								<pt> <x>-75</x><y>-180</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+				</group>
+				<group>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>7</x><y>160</y></pt>
+								<pt> <x>13</x><y>166</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>1</x><y>134</y></pt>
+								<pt> <x>7</x><y>140</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>7</x><y>150</y></pt>
+								<pt> <x>-13</x><y>136</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-13</x><y>164</y></pt>
+								<pt> <x>7</x><y>150</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>7</x><y>140</y></pt>
+								<pt> <x>7</x><y>160</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-13</x><y>136</y></pt>
+								<pt> <x>-13</x><y>164</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+				</group>
+					<schematicsymbolportimplementation>
+					<filled>1</filled>
+					<size>32</size>
+					<stublength>50</stublength>
+					<transform>
+					<origin>
+					<pt> 
+					<x>0</x>
+					<y>-300</y>
+					</pt></origin><rotation>0</rotation></transform>
+						<schematicsymbolporttemplateref> <pinshape>Line</pinshape>
+						<libraryref>Line</libraryref><scaling>
+                       <horizontal>1</horizontal>
+                       <vertical>1</vertical>
+                       </scaling></schematicsymbolporttemplateref>
+						<bubble> <bubbleable>0</bubbleable>
+						<defaultstate>0</defaultstate><pointlist>
+                       <pt><x>0</x><y>0</y></pt>
+                       <pt><x>0</x><y>0</y></pt>
+                       </pointlist></bubble>
+						<portattributedisplay>
+					<portnamedisplay>
+					<name>S</name>
+					<justification>C</justification>
+					<transform>
+				    <origin>
+		            <pt>
+			        <x>-1</x>
+					<y>-349</y>
+			        </pt></origin><rotation>0</rotation></transform>
+					</portnamedisplay>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>0</x><y>-300</y></pt>
+								<pt> <x>0</x><y>-250</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+				 <portpropertyloc>
+                <name>$PN</name>
+   			 <offset>
+			     <pt>
+				 <x>0</x>
+                <y>-125</y>
+                </pt></offset>
+                </portpropertyloc>
+				 <portpropertydisplay>
+                <name>PIN_TEXT</name>
+         		 <value>S</value>
+   			 <justification>0</justification>
+    			 <color>0</color>
+    			 <size>32</size>
+   			 <nv>0</nv>
+   			 <vv>1</vv>
+	    		 <ip>0</ip>
+                <slant>0</slant>
+                <over>0</over>
+                <inv>0</inv>
+                <font>0</font>
+   			 <transform><origin>
+			     <pt>
+				 <x>9</x>
+                <y>-224</y>
+                </pt></origin><rotation>0</rotation>
+   			 </transform>
+                </portpropertydisplay>
+						</portattributedisplay>
+					</schematicsymbolportimplementation>
+					<schematicsymbolportimplementation>
+					<filled>1</filled>
+					<size>32</size>
+					<stublength>50</stublength>
+					<transform>
+					<origin>
+					<pt> 
+					<x>-200</x>
+					<y>-125</y>
+					</pt></origin><rotation>0</rotation></transform>
+						<schematicsymbolporttemplateref> <pinshape>Line</pinshape>
+						<libraryref>Line</libraryref><scaling>
+                       <horizontal>1</horizontal>
+                       <vertical>1</vertical>
+                       </scaling></schematicsymbolporttemplateref>
+						<bubble> <bubbleable>0</bubbleable>
+						<defaultstate>0</defaultstate><pointlist>
+                       <pt><x>0</x><y>0</y></pt>
+                       <pt><x>0</x><y>0</y></pt>
+                       </pointlist></bubble>
+						<portattributedisplay>
+					<portnamedisplay>
+					<name>G</name>
+					<justification>R</justification>
+					<transform>
+				    <origin>
+		            <pt>
+			        <x>-224</x>
+					<y>-124</y>
+			        </pt></origin><rotation>0</rotation></transform>
+					</portnamedisplay>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-200</x><y>-125</y></pt>
+								<pt> <x>-150</x><y>-125</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+				 <portpropertyloc>
+                <name>$PN</name>
+   			 <offset>
+			     <pt>
+				 <x>-25</x>
+                <y>-75</y>
+                </pt></offset>
+                </portpropertyloc>
+				 <portpropertydisplay>
+                <name>PIN_TEXT</name>
+         		 <value>G</value>
+   			 <justification>0</justification>
+    			 <color>0</color>
+    			 <size>32</size>
+   			 <nv>0</nv>
+   			 <vv>1</vv>
+	    		 <ip>0</ip>
+                <slant>0</slant>
+                <over>0</over>
+                <inv>0</inv>
+                <font>0</font>
+   			 <transform><origin>
+			     <pt>
+				 <x>-129</x>
+                <y>-104</y>
+                </pt></origin><rotation>0</rotation>
+   			 </transform>
+                </portpropertydisplay>
+						</portattributedisplay>
+					</schematicsymbolportimplementation>
+					<schematicsymbolportimplementation>
+					<filled>1</filled>
+					<size>32</size>
+					<stublength>50</stublength>
+					<transform>
+					<origin>
+					<pt> 
+					<x>-200</x>
+					<y>150</y>
+					</pt></origin><rotation>0</rotation></transform>
+						<schematicsymbolporttemplateref> <pinshape>Line</pinshape>
+						<libraryref>Line</libraryref><scaling>
+                       <horizontal>1</horizontal>
+                       <vertical>1</vertical>
+                       </scaling></schematicsymbolporttemplateref>
+						<bubble> <bubbleable>0</bubbleable>
+						<defaultstate>0</defaultstate><pointlist>
+                       <pt><x>0</x><y>0</y></pt>
+                       <pt><x>0</x><y>0</y></pt>
+                       </pointlist></bubble>
+						<portattributedisplay>
+					<portnamedisplay>
+					<name>A</name>
+					<justification>R</justification>
+					<transform>
+				    <origin>
+		            <pt>
+			        <x>-225</x>
+					<y>150</y>
+			        </pt></origin><rotation>0</rotation></transform>
+					</portnamedisplay>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-200</x><y>150</y></pt>
+								<pt> <x>-150</x><y>150</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+				 <portpropertyloc>
+                <name>$PN</name>
+   			 <offset>
+			     <pt>
+				 <x>-200</x>
+                <y>100</y>
+                </pt></offset>
+                </portpropertyloc>
+				 <portpropertydisplay>
+                <name>PIN_TEXT</name>
+         		 <value>A</value>
+   			 <justification>0</justification>
+    			 <color>0</color>
+    			 <size>32</size>
+   			 <nv>0</nv>
+   			 <vv>1</vv>
+	    		 <ip>0</ip>
+                <slant>0</slant>
+                <over>0</over>
+                <inv>0</inv>
+                <font>0</font>
+   			 <transform><origin>
+			     <pt>
+				 <x>-140</x>
+                <y>163</y>
+                </pt></origin><rotation>0</rotation>
+   			 </transform>
+                </portpropertydisplay>
+						</portattributedisplay>
+					</schematicsymbolportimplementation>
+					<schematicsymbolportimplementation>
+					<filled>1</filled>
+					<size>32</size>
+					<stublength>50</stublength>
+					<transform>
+					<origin>
+					<pt> 
+					<x>75</x>
+					<y>-300</y>
+					</pt></origin><rotation>0</rotation></transform>
+						<schematicsymbolporttemplateref> <pinshape>Line</pinshape>
+						<libraryref>Line</libraryref><scaling>
+                       <horizontal>1</horizontal>
+                       <vertical>1</vertical>
+                       </scaling></schematicsymbolporttemplateref>
+						<bubble> <bubbleable>0</bubbleable>
+						<defaultstate>0</defaultstate><pointlist>
+                       <pt><x>0</x><y>0</y></pt>
+                       <pt><x>0</x><y>0</y></pt>
+                       </pointlist></bubble>
+						<portattributedisplay>
+					<portnamedisplay>
+					<name>NC</name>
+					<justification>C</justification>
+					<transform>
+				    <origin>
+		            <pt>
+			        <x>75</x>
+					<y>-350</y>
+			        </pt></origin><rotation>0</rotation></transform>
+					</portnamedisplay>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>75</x><y>-300</y></pt>
+								<pt> <x>75</x><y>-250</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+				 <portpropertyloc>
+                <name>$PN</name>
+   			 <offset>
+			     <pt>
+				 <x>-150</x>
+                <y>-300</y>
+                </pt></offset>
+                </portpropertyloc>
+				 <portpropertydisplay>
+                <name>PIN_TEXT</name>
+         		 <value>NC</value>
+   			 <justification>0</justification>
+    			 <color>0</color>
+    			 <size>32</size>
+   			 <nv>0</nv>
+   			 <vv>1</vv>
+	    		 <ip>0</ip>
+                <slant>0</slant>
+                <over>0</over>
+                <inv>0</inv>
+                <font>0</font>
+   			 <transform><origin>
+			     <pt>
+				 <x>75</x>
+                <y>-240</y>
+                </pt></origin><rotation>0</rotation>
+   			 </transform>
+                </portpropertydisplay>
+						</portattributedisplay>
+					</schematicsymbolportimplementation>
+					<schematicsymbolportimplementation>
+					<filled>1</filled>
+					<size>32</size>
+					<stublength>50</stublength>
+					<transform>
+					<origin>
+					<pt> 
+					<x>-200</x>
+					<y>75</y>
+					</pt></origin><rotation>0</rotation></transform>
+						<schematicsymbolporttemplateref> <pinshape>Line</pinshape>
+						<libraryref>Line</libraryref><scaling>
+                       <horizontal>1</horizontal>
+                       <vertical>1</vertical>
+                       </scaling></schematicsymbolporttemplateref>
+						<bubble> <bubbleable>0</bubbleable>
+						<defaultstate>0</defaultstate><pointlist>
+                       <pt><x>0</x><y>0</y></pt>
+                       <pt><x>0</x><y>0</y></pt>
+                       </pointlist></bubble>
+						<portattributedisplay>
+					<portnamedisplay>
+					<name>D_1</name>
+					<justification>R</justification>
+					<transform>
+				    <origin>
+		            <pt>
+			        <x>-225</x>
+					<y>75</y>
+			        </pt></origin><rotation>0</rotation></transform>
+					</portnamedisplay>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-200</x><y>75</y></pt>
+								<pt> <x>-150</x><y>75</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+				 <portpropertyloc>
+                <name>$PN</name>
+   			 <offset>
+			     <pt>
+				 <x>-200</x>
+                <y>225</y>
+                </pt></offset>
+                </portpropertyloc>
+				 <portpropertydisplay>
+                <name>PIN_TEXT</name>
+         		 <value>D</value>
+   			 <justification>0</justification>
+    			 <color>0</color>
+    			 <size>32</size>
+   			 <nv>0</nv>
+   			 <vv>1</vv>
+	    		 <ip>0</ip>
+                <slant>0</slant>
+                <over>0</over>
+                <inv>0</inv>
+                <font>0</font>
+   			 <transform><origin>
+			     <pt>
+				 <x>-15</x>
+                <y>25</y>
+                </pt></origin><rotation>0</rotation>
+   			 </transform>
+                </portpropertydisplay>
+						</portattributedisplay>
+					</schematicsymbolportimplementation>
+					<schematicsymbolportimplementation>
+					<filled>1</filled>
+					<size>32</size>
+					<stublength>50</stublength>
+					<transform>
+					<origin>
+					<pt> 
+					<x>200</x>
+					<y>200</y>
+					</pt></origin><rotation>0</rotation></transform>
+						<schematicsymbolporttemplateref> <pinshape>Line</pinshape>
+						<libraryref>Line</libraryref><scaling>
+                       <horizontal>1</horizontal>
+                       <vertical>1</vertical>
+                       </scaling></schematicsymbolporttemplateref>
+						<bubble> <bubbleable>0</bubbleable>
+						<defaultstate>0</defaultstate><pointlist>
+                       <pt><x>0</x><y>0</y></pt>
+                       <pt><x>0</x><y>0</y></pt>
+                       </pointlist></bubble>
+						<portattributedisplay>
+					<portnamedisplay>
+					<name>K_1</name>
+					<justification>L</justification>
+					<transform>
+				    <origin>
+		            <pt>
+			        <x>225</x>
+					<y>200</y>
+			        </pt></origin><rotation>0</rotation></transform>
+					</portnamedisplay>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>200</x><y>200</y></pt>
+								<pt> <x>150</x><y>200</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+				 <portpropertyloc>
+                <name>$PN</name>
+   			 <offset>
+			     <pt>
+				 <x>200</x>
+                <y>125</y>
+                </pt></offset>
+                </portpropertyloc>
+				 <portpropertydisplay>
+                <name>PIN_TEXT</name>
+         		 <value>K</value>
+   			 <justification>2</justification>
+    			 <color>0</color>
+    			 <size>32</size>
+   			 <nv>0</nv>
+   			 <vv>1</vv>
+	    		 <ip>0</ip>
+                <slant>0</slant>
+                <over>0</over>
+                <inv>0</inv>
+                <font>0</font>
+   			 <transform><origin>
+			     <pt>
+				 <x>140</x>
+                <y>137</y>
+                </pt></origin><rotation>0</rotation>
+   			 </transform>
+                </portpropertydisplay>
+						</portattributedisplay>
+					</schematicsymbolportimplementation>
+					<schematicsymbolportimplementation>
+					<filled>1</filled>
+					<size>32</size>
+					<stublength>50</stublength>
+					<transform>
+					<origin>
+					<pt> 
+					<x>200</x>
+					<y>100</y>
+					</pt></origin><rotation>0</rotation></transform>
+						<schematicsymbolporttemplateref> <pinshape>Line</pinshape>
+						<libraryref>Line</libraryref><scaling>
+                       <horizontal>1</horizontal>
+                       <vertical>1</vertical>
+                       </scaling></schematicsymbolporttemplateref>
+						<bubble> <bubbleable>0</bubbleable>
+						<defaultstate>0</defaultstate><pointlist>
+                       <pt><x>0</x><y>0</y></pt>
+                       <pt><x>0</x><y>0</y></pt>
+                       </pointlist></bubble>
+						<portattributedisplay>
+					<portnamedisplay>
+					<name>K_2</name>
+					<justification>L</justification>
+					<transform>
+				    <origin>
+		            <pt>
+			        <x>225</x>
+					<y>100</y>
+			        </pt></origin><rotation>0</rotation></transform>
+					</portnamedisplay>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>200</x><y>100</y></pt>
+								<pt> <x>150</x><y>100</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+				 <portpropertyloc>
+                <name>$PN</name>
+   			 <offset>
+			     <pt>
+				 <x>200</x>
+                <y>-125</y>
+                </pt></offset>
+                </portpropertyloc>
+						</portattributedisplay>
+					</schematicsymbolportimplementation>
+					<schematicsymbolportimplementation>
+					<filled>1</filled>
+					<size>32</size>
+					<stublength>50</stublength>
+					<transform>
+					<origin>
+					<pt> 
+					<x>-200</x>
+					<y>0</y>
+					</pt></origin><rotation>0</rotation></transform>
+						<schematicsymbolporttemplateref> <pinshape>Line</pinshape>
+						<libraryref>Line</libraryref><scaling>
+                       <horizontal>1</horizontal>
+                       <vertical>1</vertical>
+                       </scaling></schematicsymbolporttemplateref>
+						<bubble> <bubbleable>0</bubbleable>
+						<defaultstate>0</defaultstate><pointlist>
+                       <pt><x>0</x><y>0</y></pt>
+                       <pt><x>0</x><y>0</y></pt>
+                       </pointlist></bubble>
+						<portattributedisplay>
+					<portnamedisplay>
+					<name>D_2</name>
+					<justification>R</justification>
+					<transform>
+				    <origin>
+		            <pt>
+			        <x>-225</x>
+					<y>0</y>
+			        </pt></origin><rotation>0</rotation></transform>
+					</portnamedisplay>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-200</x><y>0</y></pt>
+								<pt> <x>-150</x><y>0</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+				 <portpropertyloc>
+                <name>$PN</name>
+   			 <offset>
+			     <pt>
+				 <x>-200</x>
+                <y>275</y>
+                </pt></offset>
+                </portpropertyloc>
+						</portattributedisplay>
+					</schematicsymbolportimplementation>
+				</schematicsymbol>

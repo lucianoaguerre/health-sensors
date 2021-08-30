@@ -1,0 +1,165 @@
+#ISCELL
+  mml maxim#20b#20size#20page#202 *
+  *
+#ISCELL
+  standard supply_1 *
+  *
+#CELL
+  mml max32620 *
+  page10_i1
+#CELL
+  mml res_smd *
+  page10_i156
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i168
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i169
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i170
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i171
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i172
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i173
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i174
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i175
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i177
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i178
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i179
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i180
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i181
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i183
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i184
+#ISCELL
+  standard pground *
+  page10_i188
+#CELL
+  mml cap_np *
+  page10_i189
+#ISCELL
+  standard pground *
+  page10_i190
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i195
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i197
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i201
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i202
+#ISCELL
+  standard pground *
+  page10_i206
+#CELL
+  mml res_smd *
+  page10_i207
+#ISCELL
+  standard pground *
+  page10_i208
+#CELL
+  mml res_smd *
+  page10_i209
+#CELL
+  mml tran_dch_8p *
+  page10_i210
+#CELL
+  mml res_smd *
+  page10_i211
+#CELL
+  mml led *
+  page10_i212
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i216
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i217
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i218
+#CELL
+  mml cap_np *
+  page10_i219
+#CELL
+  mml s25fs256s *
+  page10_i220
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i221
+#CELL
+  evkit_noncompliant evkit_tp *
+  page10_i222
+#CELL
+  mml res_smd *
+  page10_i223
+#CELL
+  mml xtal *
+  page10_i4
+#ISCELL
+  standard pground *
+  page10_i59
+#CELL
+  mml cap_np *
+  page10_i60
+#ISCELL
+  standard pground *
+  page10_i61
+#CELL
+  mml cap_np *
+  page10_i62
+#ISCELL
+  standard pground *
+  page10_i63
+#CELL
+  mml cap_np *
+  page10_i64
+#ISCELL
+  standard pground *
+  page10_i65
+#ISCELL
+  standard pground *
+  page10_i66
+#CELL
+  mml cap_np *
+  page10_i67
+#ISCELL
+  standard pground *
+  page10_i69
+#CELL
+  mml cap_np *
+  page10_i76
+#ISCELL
+  standard pground *
+  page10_i77
+#ISCELL
+  standard pground *
+  page10_i83

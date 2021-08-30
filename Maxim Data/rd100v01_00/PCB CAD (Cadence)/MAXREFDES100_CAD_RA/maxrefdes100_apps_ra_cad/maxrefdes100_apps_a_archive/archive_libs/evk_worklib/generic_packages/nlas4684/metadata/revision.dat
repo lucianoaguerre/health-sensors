@@ -1,0 +1,204 @@
+(Cell	nlas4684
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/07/14,09:52:00)
+
+			(User	Jayson.Navarro)
+
+			(Path	jaysonlib_lib.nlas4684)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/04/11,15:58:07)
+
+			(User	Moises.Condicion)
+
+			(Path	eee_lib.nlast4599)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.3)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	02/07/14,09:52:00)
+
+					(User	Jayson.Navarro)
+
+					(Path	jaysonlib_lib.nlas4684)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004d2e21f1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/07/14,09:52:00)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.nlas4684)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ca903aa)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000034af4d8f)
+
+			(Primitives	1
+
+				(Primitive	NLAS4684_UMAX10
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/07/14,09:52:00)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.nlas4684)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	NLAS4684
+
+							(PackType	NLAS4684_UMAX10)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOP50P490X110-10M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a2b0326)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S016 (v16-6-112AU))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c080372)
+
+)
+

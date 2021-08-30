@@ -1,0 +1,289 @@
+
+
+
+
+    Cadence Design Systems, Inc.
+    Packager-XL 16.6-S057 (v16-6-112ES) WIN32 8/31/2015 12:00:00 IST
+    (C) Copyright 1994, Cadence Design Systems, Inc.
+
+    Run on Tue Jun 14 06:56:49 2016
+
+
+ **********************************************
+ *  Processing project file and command line  *
+ **********************************************
+
+
+
+    ANNOTATE  'ON'
+    COMP_DEF_PROP  'ALT_SYMBOLS' 'JEDEC_TYPE' 'NC_PINS' 'MERGE_NC_PINS'
+                   'POWER_GROUP' 'POWER_PINS' 'MERGE_POWER_PINS' 'PINCOUNT'
+                   'VALUE'
+    COMP_INST_PROP  'GROUP' 'ROOM' 'REUSE_INSTANCE' 'REUSE_ID' 'REUSE_NAME'
+                    'SIGNAL_MODEL' 'DEFAULT_SIGNAL_MODEL'
+                    'VOLT_TEMP_SIGNAL_MODEL' 'SYMBOL_EDITED'
+                    'INCLUDE_IN_RF_TOPOLOGY' 'CDS_FSP_LIB_PART_MODEL'
+                    'CDS_FSP_IS_FPGA' 'CDS_FSP_INSTANCE_NAME'
+                    'CDS_FSP_INSTANCE_ID' 'NO_XNET_CONNECTION'
+                    'EMBEDDED_PLACEMENT' 'CAP' 'RES' 'VLOG_PARAM01' 'JUMPER_SET'
+                    'SPLIT_INST' 'VERILOG_MODEL' 'VLOG_PARAM02' 'RES1' 'RES2'
+                    'POWER_RATING' 'VOLTAGE_RATING' 'LABEL_SILK' 'ISRFELEMENT'
+                    'RFELEMENTTYPE' 'RFLAYER' 'RFLAYER1' 'RFLAYER2' 'RFLAYER3'
+                    'RFLAYER4' 'RFLAYER5' 'RFLAYER6' 'RFLAYER7' 'RFLAYER8'
+                    'RFLAYER9' 'RFLAYER10' 'RFLAYER11' 'RFLAYER12' 'RFLAYER13'
+                    'RFLAYER14' 'RFLAYER15' 'RFLAYER16' 'RFCOUPLINGMODE'
+                    'RFFLIPMODE' 'RFANGLE' 'RFANGLE1' 'RFWIDTH' 'RFWIDTH1'
+                    'RFWIDTH2' 'RFWIDTH3' 'RFWIDTH4' 'RFWIDTH5' 'RFWIDTH6'
+                    'RFWIDTH7' 'RFWIDTH8' 'RFWIDTH9' 'RFWIDTH10' 'RFWIDTH11'
+                    'RFWIDTH12' 'RFWIDTH13' 'RFWIDTH14' 'RFWIDTH15' 'RFWIDTH16'
+                    'RFLENGTH' 'RFLENGTH1' 'RFLENGTH2' 'RFLENGTH3' 'RFLENGTH4'
+                    'RFLENGTH5' 'RFLENGTH6' 'RFLENGTH7' 'RFLENGTH8' 'RFSPACING'
+                    'RFSPACING1' 'RFSPACING2' 'RFSPACING3' 'RFSPACING4'
+                    'RFSPACING5' 'RFSPACING6' 'RFSPACING7' 'RFSPACING8'
+                    'RFSPACING9' 'RFSPACING10' 'RFSPACING11' 'RFSPACING12'
+                    'RFSPACING13' 'RFSPACING14' 'RFSPACING15' 'RFOFFSETX'
+                    'RFOFFSETY' 'RFRADIUS' 'RFDEPTH' 'RFFREQUENCY'
+                    'RFMITERFRACTION' 'RFBENDMODE' 'RFNUMBERLEGS'
+                    'RFNUMBERPAIRS' 'RFNUMBERTURNS' 'RFCAPACITANCE'
+                    'RFRESISTANCE' 'RFINDUCTANCE' 'RFPADSTACKNAME'
+                    'RFPADSSMNAME1' 'RFPADSSMNAME2' 'RFPADBEGINLAYER'
+                    'RFPADENDLAYER' 'RFPADLINEWIDTH1' 'RFPADLINEWIDTH2'
+                    'RFPADDIAMETER1' 'RFPADDIAMETER2' 'RFPADLENGTH1'
+                    'RFPADLENGTH2' 'RFHOLEDIAMETER' 'RFPADANGLE' 'RFDRANAME'
+                    'RFPADTYPE' 'RFUID' 'RFBLOCK' 'RFDCNET' 'RFGROUP' 'MWO_NAME'
+    SUPPRESS_GLOBAL_SHORT_CHECK OFF
+    DEBUG    0
+    DEFAULT_PHYS_DES_PREFIX U
+    FEEDBACK  'OFF'
+    GEN_SUBDESIGN  'EVK' 'HSP2'
+    MAX_ERRORS 999
+    NET_NAME_CHARS   @  -  !  #  %  &  (  )  *  .  /  :  ?  [  ]  ^  _  `  +
+                     =  >  0  1  2  3  4  5  6  7  8  9
+    NET_NAME_LENGTH 1024
+    NUM_OLD_VERSIONS 3
+    OPTIMIZE OFF
+    REUSE_REFDES ON
+    OPF_OPTIMIZATION OFF
+    HARD_LOC_SEC ON
+    FORCE_PTF_ENTRY OFF
+    REGENERATE_PHYSICAL_NET_NAME OFF
+    SCH_POWER_GROUP_WINS_OVER_PPT OFF
+    NULL_OPT_VALID OFF
+    USE_VECTOR_NOTATION ON
+    FILTER_ECS_FROM_XNET ON
+    OUTPUT  'ON'
+    PACKAGE_PROP  'GROUP' 'ROOM'
+    PART_TYPE_LENGTH 1024
+    PPT  G:\allegrolib\site\..\mml_worklib\mechanical 
+    REF_DES_LENGTH 50
+    REPACKAGE OFF
+    ELECTRICAL_CONSTRAINTS ON
+    OVERWRITE_CONSTRAINTS OFF
+    RUN_DIR ./worklib/maxrefdes100_apps_a/packaged/
+    STRICT_PACKAGE_PROP  'REUSE_INSTANCE'
+    USE_LIBRARY_PPT ON
+    USE_STATE ON
+    WARNINGS ON
+    LIBRARY  'maxrefdes100_apps_a' 'standard' 'mml' 'evkit_noncompliant'
+             'rf_comp_lib'
+    CDSPROP_FILE 
+    VIEW_PTF part_table
+    VIEW_PACKAGER packaged
+    VIEW_CONSTRAINTS sch_1
+    DESIGN_LIBRARY maxrefdes100_apps_a
+    DESIGN_NAME maxrefdes100_apps_a
+    VIEW_CONFIG_PHYSICAL cfg_package
+    SD_SUFFIX_SEPARATOR _
+    STOP_PST_GEN_ON_PTF_MISMATCH ON
+    IGNORE_PRIM_BINDING OFF
+    LOG_INST_PHYS_PATH ON
+    ANNOTATE_VISIBLE_SEC OFF
+    PTF_MISMATCH_EXCLUDE_INJ_PROP  'ALL'
+    IMPORT_HFS_HARDSEC_ON_SWAP_PINS OFF
+    ALLOW_PTFVALUE_INITIAL_BLANKS ON
+    PRESERVE_UNSUBSTITUTED_MACROS OFF
+    DETECT_SYS_NETSHORTS_PKG ON
+    PROCESS_PIN_SHORT_PROP ON
+    STOP_PACKAGE_ON_SCHEMATIC_ERROR OFF
+    LOCK_FILE_PERM 444
+    LOCK_FOR_SAME_USER OFF
+    ERROR_ON_MISMATCHED_INTERFACE ON
+    RETAIN_ZERO_NODE_NETS OFF
+    IGNORE_ERR_EMPTY_LONGPARTNAME OFF
+    ERROR_ILLEGAL_QUOTE_PPT OFF
+    B2F_OVERWRITE_CONSTRAINTS OFF
+    ERROR_ON_PARTIAL_INSTANTIATION_OF_HSS OFF
+    RUN_HIERWR_BEFORE_PXL OFF
+    IMPORT_CONSTRAINTS_ONLY_FEEDBACK OFF
+    REPORT_NET_PROP_CONFLICT_AS_ERROR OFF
+
+ **************************************************************
+ *  End processing project file and command line  (00:00:00)  *
+ **************************************************************
+
+
+Creating Configuration "cfg_package" for Design "maxrefdes100_apps_a"
+
+INFO(SPCODD-181): Loading C:\Cadence\SPB_16.6\share\cdssetup\cdsprop.tmf.
+INFO(SPCODD-181): Loading G:\allegrolib\site\cdssetup\cdsprop.paf.
+INFO(SPCODD-181): Loading G:/allegrolib/site/../mml_worklib/mechanical/mech.pt~
+f.
+
+ *********************************
+ *  Loading the design database  *
+ *********************************
+
+INFO(SPCODD-181): Loading G:/allegrolib/evk_worklib/ek_max30003/part_table/par~
+t.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/0201_SMD~
+_CAP.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/0402_SMD~
+_CAP.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/0508_SMD~
+_CAP.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/0603_SMD~
+_CAP.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/0805_SMD~
+_CAP.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/1206_SMD~
+_CAP.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/1210_SMD~
+_CAP.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/part.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_np/part_table/TH_CAPS.~
+ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/part.pt~
+f.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES~
+_0201.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES~
+_0402.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES~
+_0603.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES~
+_0805.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES~
+_1206.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES~
+_1210.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/res_smd/part_table/SMD_RES~
+_2512.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/evk_worklib/evkit_tp/part_table/part.p~
+tf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_4p/part_table/CAP_4P.p~
+tf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max30101/part_table/part.p~
+tf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/lis2dh/part_table/part.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/bmp280/part_table/part.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/lsm6ds3/part_table/part.pt~
+f.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/tran_nch_3p/part_table/NCH~
+_3P.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/evk_worklib/ev_kit_box/part_table/part~
+.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/balun/part_table/balun.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/xtal/part_table/XTAL.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/em9301/part_table/part.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/induct/part_table/INDUCT.p~
+tf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/induct/part_table/part.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/evk_worklib/generic_packages/part_tabl~
+e/part.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/2450at42b100e/part_table/p~
+art.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/sn74avc4t234/part_table/pa~
+rt.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/74c2t45/part_table/74c2t45~
+.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max14720/part_table/part.p~
+tf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/fdfme2p823zt/part_table/pa~
+rt.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max8881/part_table/part.pt~
+f.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/evp#2daaxxxx/part_table/pa~
+rt.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/898#2dxx#2dxxx#2d90#2d3100~
+00/part_table/part.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max9064/part_table/part.pt~
+f.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max4995/part_table/part.pt~
+f.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max4741/part_table/part.pt~
+f.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/tran_dch_8p/part_table/tra~
+n_dch_8p.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/cap_pol/part_table/CAP_POL~
+.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/battery_holder/part_table/~
+part.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/741g97/part_table/part.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max3205/part_table/part.pt~
+f.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max32620/part_table/part.p~
+tf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/led/part_table/LED.ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/s25fs256s/part_table/part.~
+ptf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max30205/part_table/part.p~
+tf.
+INFO(SPCODD-181): Loading G:/allegrolib/mml_worklib/max8880/part_table/part.pt~
+f.
+INFO(SPCODD-181): Loading G:/allegrolib/evk_worklib/ek_max30033/part_table/par~
+t.ptf.
+ #1   WARNING(SPCODD-124): Pin '3' not found in design for primitive instance ~
+'@MAXREFDES100_APPS_A.MAXREFDES100_APPS_A(SCH_1):PAGE9_I151@MML.BATTERY_HOLDER~
+(CHIPS)'.
+ Nets not shorted for primitive instance '@MAXREFDES100_APPS_A.MAXREFDES100_AP~
+PS_A(SCH_1):PAGE9_I151@MML.BATTERY_HOLDER(CHIPS)'.
+
+ *************************
+ *  Loading State Files  *
+ *************************
+
+Loading ./worklib/maxrefdes100_apps_a/packaged/pxl.state. 
+
+ *****************************************
+ *  End loading State Files  (00:00:00)  *
+ *****************************************
+
+
+ ****************************************
+ *  Starting to assign physical parts.  *
+ ****************************************
+
+
+ ***********************************************
+ *  End assigning physical parts.  (00:00:00)  *
+ ***********************************************
+
+
+ ***************
+ *  Packaging  *
+ ***************
+
+
+ *******************************
+ *  End packaging  (00:00:00)  *
+ *******************************
+
+ #2   WARNING(SPCODD-354): Invalid module name in GEN_SUBDESIGN directive 'HSP~
+2'.
+           GEN_SUBDESIGN can only be used for root design.
+ #3   WARNING(SPCODD-354): Invalid module name in GEN_SUBDESIGN directive 'EVK~
+'.
+           GEN_SUBDESIGN can only be used for root design.
+INFO(SPCOPK-1442): No errors detected
+INFO(SPCOPK-1443): 3 warnings detected
+INFO(SPCOPK-1448): Use Tools->Markers->Packager in ConceptHDL to highlight ins~
+tances for the errors/warnings reported.
+    Start time    6:56:49
+    End time      6:56:51
+    Elapsed time  0:00:02
+
+ ***************************************************************************
+ *  Packager-XL execution done.
+ ***************************************************************************
+Starting to audit ECsets in the design...
+Audit completed successfully.

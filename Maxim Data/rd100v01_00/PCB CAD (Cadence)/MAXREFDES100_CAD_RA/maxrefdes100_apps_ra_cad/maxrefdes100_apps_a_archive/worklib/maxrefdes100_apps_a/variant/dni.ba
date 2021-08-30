@@ -1,0 +1,626 @@
+( 
+	(global
+		("VARIANT_NAME" "DNI")
+		("VARIANT_VIEW" "schdni_1")
+		("VARIANT_DESCRIPTION" "")
+	)
+	(modules
+		"@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1)"
+	)
+	(options
+		("VARIANT_PROP" "VARIANT")
+		("VARIANT_DNI" "DNI")
+		("VARIANT_DESIGNATOR" "DNI")
+	)
+	(props
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i102@mml.cap_4p(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "C12")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i100@mml.cap_4p(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "C7")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i124@evkit_noncompliant.ek_max30033(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "U10")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i125@evkit_noncompliant.ek_max30033(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "U1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i195@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP33")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i217@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP31")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i183@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP30")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i218@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP29")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i197@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP26")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i170@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP25")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i168@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP23")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i216@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP22")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i180@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP21")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i179@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP20")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i184@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP19")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i169@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP18")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i178@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP17")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i171@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP16")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i181@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP15")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i172@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP14")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i173@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP13")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i174@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP12")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i177@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP11")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i175@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP10")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i149@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP24")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i109@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "VREF")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i107@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "VBG")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i111@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "GND")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i110@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "AOUT")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i115@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "VCM")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i86@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "ECGP")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i85@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "ECGN")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i81@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "DRVP")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i82@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "DRVN")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i83@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "BIP")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i84@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "BIN")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i202@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP28")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i201@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP27")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i222@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP2")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i221@evkit_noncompliant.evkit_tp(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "TP1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i26@evkit_noncompliant.generic_packages(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "C35")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i136@mml.res_smd(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "R40")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i133@mml.res_smd(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "R37")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i45@mml.res_smd(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "R16")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i131@mml.tran_dch_8p(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "Q5")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i131@mml.cap_np(chips)"
+			("LOCATION" "C1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i23@mml.cap_np(chips)"
+			("LOCATION" "C2")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i29@mml.cap_np(chips)"
+			("LOCATION" "C3")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i21@mml.cap_np(chips)"
+			("LOCATION" "C4")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i133@mml.cap_np(chips)"
+			("LOCATION" "C6")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i120@mml.cap_np(chips)"
+			("LOCATION" "C15")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i134@mml.cap_np(chips)"
+			("LOCATION" "C17")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i89@mml.cap_np(chips)"
+			("LOCATION" "C18")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i130@mml.cap_np(chips)"
+			("LOCATION" "C29")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i50@mml.cap_np(chips)"
+			("LOCATION" "C43")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i104@mml.cap_np(chips)"
+			("LOCATION" "C44")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i45@mml.cap_np(chips)"
+			("LOCATION" "C45")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i56@mml.cap_np(chips)"
+			("LOCATION" "C47")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i58@mml.cap_np(chips)"
+			("LOCATION" "C51")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i60@mml.cap_np(chips)"
+			("LOCATION" "C52")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i93@mml.cap_np(chips)"
+			("LOCATION" "C55")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i132@mml.cap_np(chips)"
+			("LOCATION" "C63")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i43@mml.res_smd(chips)"
+			("LOCATION" "R6")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i114@mml.res_smd(chips)"
+			("LOCATION" "R8")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i118@mml.res_smd(chips)"
+			("LOCATION" "R9")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i87@mml.res_smd(chips)"
+			("LOCATION" "R10")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i42@mml.res_smd(chips)"
+			("LOCATION" "R21")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i116@mml.res_smd(chips)"
+			("LOCATION" "R26")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i39@mml.res_smd(chips)"
+			("LOCATION" "R27")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i113@mml.res_smd(chips)"
+			("LOCATION" "R29")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i117@mml.res_smd(chips)"
+			("LOCATION" "R30")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i119@mml.res_smd(chips)"
+			("LOCATION" "R38")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i46@mml.res_smd(chips)"
+			("LOCATION" "R43")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i54@mml.res_smd(chips)"
+			("LOCATION" "R44")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i53@mml.res_smd(chips)"
+			("LOCATION" "R45")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page1_i20@evkit_noncompliant.ek_max30001(chips)"
+			("LOCATION" "U3")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i28@mml.\\2450at42b100e\\(chips)"
+			("LOCATION" "ANT1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i35@mml.cap_np(chips)"
+			("LOCATION" "C13")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i36@mml.cap_np(chips)"
+			("LOCATION" "C16")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i55@mml.cap_np(chips)"
+			("LOCATION" "C20")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i6@mml.cap_np(chips)"
+			("LOCATION" "C22")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i5@mml.cap_np(chips)"
+			("LOCATION" "C25")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i41@mml.cap_np(chips)"
+			("LOCATION" "C26")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i40@mml.cap_np(chips)"
+			("LOCATION" "C27")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i18@mml.cap_np(chips)"
+			("LOCATION" "C30")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i17@mml.cap_np(chips)"
+			("LOCATION" "C31")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i29@mml.cap_np(chips)"
+			("LOCATION" "C32")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i24@mml.induct(chips)"
+			("LOCATION" "L3")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i23@mml.induct(chips)"
+			("LOCATION" "L4")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i65@mml.res_smd(chips)"
+			("LOCATION" "R1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i39@mml.res_smd(chips)"
+			("LOCATION" "R17")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i44@mml.res_smd(chips)"
+			("LOCATION" "R19")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i67@mml.res_smd(chips)"
+			("LOCATION" "R20")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i2@mml.balun(chips)"
+			("LOCATION" "T1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i61@mml.\\74c2t45\\(chips)"
+			("LOCATION" "U6")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i4@mml.em9301(chips)"
+			("LOCATION" "U7")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i57@mml.sn74avc4t234(chips)"
+			("LOCATION" "U8")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page7_i3@mml.xtal(chips)"
+			("LOCATION" "Y1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i151@mml.battery_holder(chips)"
+			("LOCATION" "B1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i29@mml.cap_np(chips)"
+			("LOCATION" "C5")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i64@mml.cap_np(chips)"
+			("LOCATION" "C21")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i144@mml.cap_pol(chips)"
+			("LOCATION" "C33")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i81@mml.cap_np(chips)"
+			("LOCATION" "C36")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i25@mml.cap_np(chips)"
+			("LOCATION" "C37")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i145@mml.cap_np(chips)"
+			("LOCATION" "C38")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i44@mml.cap_np(chips)"
+			("LOCATION" "C39")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i2@mml.cap_np(chips)"
+			("LOCATION" "C40")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i33@mml.cap_np(chips)"
+			("LOCATION" "C41")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i147@mml.cap_np(chips)"
+			("LOCATION" "C42")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i164@mml.cap_np(chips)"
+			("LOCATION" "C50")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i88@mml.cap_np(chips)"
+			("LOCATION" "C53")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i140@mml.cap_np(chips)"
+			("LOCATION" "C54")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i137@mml.cap_np(chips)"
+			("LOCATION" "C56")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i166@mml.cap_np(chips)"
+			("LOCATION" "C62")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i95@mml.\\898-xx-xxx-90-310000\\(chips)"
+			("LOCATION" "CN1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i96@mml.\\898-xx-xxx-90-310000\\(chips)"
+			("LOCATION" "CN1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i168@mml.induct(chips)"
+			("LOCATION" "L1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i28@mml.induct(chips)"
+			("LOCATION" "L2")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i58@mml.fdfme2p823zt(chips)"
+			("LOCATION" "Q4")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i67@mml.res_smd(chips)"
+			("LOCATION" "R13")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i102@mml.res_smd(chips)"
+			("LOCATION" "R14")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i86@mml.res_smd(chips)"
+			("LOCATION" "R24")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i104@mml.res_smd(chips)"
+			("LOCATION" "R32")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i87@mml.res_smd(chips)"
+			("LOCATION" "R36")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i128@mml.res_smd(chips)"
+			("LOCATION" "R39")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i129@mml.res_smd(chips)"
+			("LOCATION" "R41")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i125@mml.res_smd(chips)"
+			("LOCATION" "R42")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i83@mml.\\evp-aaxxxx\\(chips)"
+			("LOCATION" "SW1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i61@mml.max8881(chips)"
+			("LOCATION" "U4")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i1@mml.max14720(chips)"
+			("LOCATION" "U11")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i161@mml.max3205(chips)"
+			("LOCATION" "U15")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i157@mml.\\741g97\\(chips)"
+			("LOCATION" "U16")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i122@mml.max4741(chips)"
+			("LOCATION" "U18")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i160@mml.max3205(chips)"
+			("LOCATION" "U19")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i155@mml.\\741g97\\(chips)"
+			("LOCATION" "U20")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i156@mml.\\741g97\\(chips)"
+			("LOCATION" "U21")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i113@mml.max9064(chips)"
+			("LOCATION" "U22")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i130@mml.max4741(chips)"
+			("LOCATION" "U23")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i115@mml.max4995(chips)"
+			("LOCATION" "U24")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i150@mml.max9064(chips)"
+			("LOCATION" "U25")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page9_i154@mml.\\741g97\\(chips)"
+			("LOCATION" "U26")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i12@mml.cap_np(chips)"
+			("LOCATION" "C8")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i30@mml.cap_np(chips)"
+			("LOCATION" "C9")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i59@mml.cap_np(chips)"
+			("LOCATION" "C10")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i28@mml.cap_np(chips)"
+			("LOCATION" "C11")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i64@mml.cap_np(chips)"
+			("LOCATION" "C14")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i57@mml.cap_np(chips)"
+			("LOCATION" "C19")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i46@mml.cap_np(chips)"
+			("LOCATION" "C28")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i43@mml.cap_np(chips)"
+			("LOCATION" "C34")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i68@mml.cap_np(chips)"
+			("LOCATION" "C46")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i4@mml.cap_np(chips)"
+			("LOCATION" "C48")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i5@mml.cap_np(chips)"
+			("LOCATION" "C49")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i82@mml.tran_nch_3p(chips)"
+			("LOCATION" "Q1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i81@mml.tran_nch_3p(chips)"
+			("LOCATION" "Q3")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i90@mml.res_smd(chips)"
+			("LOCATION" "R3")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i89@mml.res_smd(chips)"
+			("LOCATION" "R4")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i24@mml.res_smd(chips)"
+			("LOCATION" "R7")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i23@mml.res_smd(chips)"
+			("LOCATION" "R12")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i22@mml.res_smd(chips)"
+			("LOCATION" "R15")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i77@mml.res_smd(chips)"
+			("LOCATION" "R22")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i78@mml.res_smd(chips)"
+			("LOCATION" "R31")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i33@mml.res_smd(chips)"
+			("LOCATION" "R33")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i32@mml.res_smd(chips)"
+			("LOCATION" "R34")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i84@mml.max30205(chips)"
+			("LOCATION" "U2")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i55@mml.bmp280(chips)"
+			("LOCATION" "U5")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i85@mml.max8880(chips)"
+			("LOCATION" "U9")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i83@mml.max30205(chips)"
+			("LOCATION" "U12")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i79@mml.lsm6ds3(chips)"
+			("LOCATION" "U13")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i3@mml.lis2dh(chips)"
+			("LOCATION" "U14")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page8_i2@mml.max30101(chips)"
+			("LOCATION" "U17")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i76@mml.cap_np(chips)"
+			("LOCATION" "C23")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i64@mml.cap_np(chips)"
+			("LOCATION" "C24")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i189@mml.cap_np(chips)"
+			("LOCATION" "C57")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i62@mml.cap_np(chips)"
+			("LOCATION" "C58")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i60@mml.cap_np(chips)"
+			("LOCATION" "C59")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i219@mml.cap_np(chips)"
+			("LOCATION" "C60")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i67@mml.cap_np(chips)"
+			("LOCATION" "C61")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i212@mml.led(chips)"
+			("LOCATION" "DS1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i210@mml.tran_dch_8p(chips)"
+			("LOCATION" "Q2")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i223@mml.res_smd(chips)"
+			("LOCATION" "R2")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i156@mml.res_smd(chips)"
+			("LOCATION" "R18")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i207@mml.res_smd(chips)"
+			("LOCATION" "R23")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i211@mml.res_smd(chips)"
+			("LOCATION" "R25")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i209@mml.res_smd(chips)"
+			("LOCATION" "R28")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i220@mml.s25fs256s(chips)"
+			("LOCATION" "U27")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i1@mml.max32620(chips)"
+			("LOCATION" "XU1")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page10_i4@mml.xtal(chips)"
+			("LOCATION" "Y2")
+		)
+		("@maxrefdes100_apps_a.maxrefdes100_apps_a(sch_1):page12_i1@evkit_noncompliant.ev_kit_box(chips)"
+			("LOCATION" "EV_KIT_BOX1")
+		)
+	)
+)
